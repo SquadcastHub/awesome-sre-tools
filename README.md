@@ -39,7 +39,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [gedit](https://gitlab.gnome.org/GNOME/gedit/)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 
-## Continous Testing tools
+## Continous Testing Tools
 * [Selinium](https://www.seleniumhq.org/)
 * [JUnit](https://junit.org/)
 * [TestNG](https://testng.org/doc/index.html)
@@ -55,12 +55,26 @@ A curated list of Site Reliability and Production Engineering tools
 * [Apache jMeter](https://jmeter.apache.org/)
 * [Appium](http://appium.io/)
 
-## Continous Integration tools
-### Build tools
+## Continous Integration Tools
+### Build Tools
 * [Maven](https://maven.apache.org/)
 * [Ant](https://ant.apache.org/)
 * [Gradle](https://gradle.org/)
 * [Make](https://www.gnu.org/software/make/)
 * [Cake](https://cakebuild.net/)
 * [Rake](https://ruby.github.io/rake/)
-* [MS Build]( https://www.microsoft.com/en-us/build)
+* [MS Build](https://www.microsoft.com/en-us/build)
+* [Drill](https://gitlab.com/aki237/drill)
+
+### Integration Tools
+* [Jenkins](https://jenkins.io/)
+* [Bamboo](https://www.atlassian.com/software/bamboo)
+* [Hudson](http://hudson-ci.org/)
+* [CircleCI](https://circleci.com)
+* [TeamCity](https://www.jetbrains.com/teamcity/)
+* [Gitlab CI](https://about.gitlab.com/product/continuous-integration/)
+* [Travis CI](https://travis-ci.org/)
+* [AWS CodeStar](https://aws.amazon.com/codestar/)
+* [Buildbot](http://buildbot.net/)
+* [Semaphore CI](https://semaphoreci.com/)
+* [Concourse CI](https://concourse-ci.org/)
