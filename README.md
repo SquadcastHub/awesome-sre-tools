@@ -38,3 +38,13 @@ A curated list of Site Reliability and Production Engineering tools
 * [TextMate](https://macromates.com/)
 * [gedit](https://gitlab.gnome.org/GNOME/gedit/)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
+
+## Continous Integration tools
+### Build tools
+* [Maven](https://maven.apache.org/)
+* [Ant](https://ant.apache.org/)
+* [Gradle](https://gradle.org/)
+* [Make](https://www.gnu.org/software/make/)
+* [Cake](https://cakebuild.net/)
+* [Rake](https://ruby.github.io/rake/)
+* [MS Build]( https://www.microsoft.com/en-us/build)
