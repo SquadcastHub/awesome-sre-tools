@@ -39,6 +39,22 @@ A curated list of Site Reliability and Production Engineering tools
 * [gedit](https://gitlab.gnome.org/GNOME/gedit/)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 
+## Continous Testing tools
+* [Selinium](https://www.seleniumhq.org/)
+* [JUnit](https://junit.org/)
+* [TestNG](https://testng.org/doc/index.html)
+* [NUnit](https://nunit.org/)
+* [TestSigma](https://testsigma.com/)
+* [Unified Functional Testing (UFT)](https://www.microfocus.com/en-us/products/unified-functional-automated-testing/overview)
+* [Tricentis Tosca](https://www.tricentis.com/products/automate-continuous-testing-tosca/)
+* [IBM Rational Functional Tester](https://www.ibm.com/in-en/marketplace/rational-functional-tester)
+* [TestComplete](https://smartbear.com/product/testcomplete/overview/)
+* [Waitr](http://watir.com/)
+* [Zephyr](https://www.getzephyr.com/)
+* [accelQ](https://www.accelq.com/)
+* [Apache jMeter](https://jmeter.apache.org/)
+* [Appium](http://appium.io/)
+
 ## Continous Integration tools
 ### Build tools
 * [Maven](https://maven.apache.org/)
