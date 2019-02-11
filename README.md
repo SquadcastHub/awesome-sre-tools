@@ -17,6 +17,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Zoho Sprints](https://www.zoho.com/sprints/)
 * [Taiga](https://taiga.io/)
 * [Wrike](https://www.wrike.com/)
+* [Redmine](https://www.redmine.org/)
 
 ### Bug / Defect Tracking Software
 * [Bugzilla](https://www.bugzilla.org/)
@@ -36,3 +37,4 @@ A curated list of Site Reliability and Production Engineering tools
 * [UltraEdit](https://www.ultraedit.com/)
 * [TextMate](https://macromates.com/)
 * [gedit](https://gitlab.gnome.org/GNOME/gedit/)
+* [WebStorm](https://www.jetbrains.com/webstorm/)
