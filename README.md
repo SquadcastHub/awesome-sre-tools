@@ -10,3 +10,10 @@ A curated list of Site Reliability and Production Engineering tools
 * [Github](https://github.com/)
 * [Gitlab](https://about.gitlab.com/)
 * [Bitbucket](https://bitbucket.org/)
+
+### Project Management & Issue Tracking Software
+* [Jira](https://www.atlassian.com/software/jira)
+* [Trello](https://trello.com/)
+* [Zoho Sprints](https://www.zoho.com/sprints/)
+* [Taiga](https://taiga.io/)
+* [Wrike](https://www.wrike.com/)
