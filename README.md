@@ -23,3 +23,16 @@ A curated list of Site Reliability and Production Engineering tools
 * [Bugsee](https://www.bugsee.com/)
 * [Instabug](https://instabug.com/)
 * [Zoho BugTracker](https://www.zoho.in/bugtracker/)
+
+### Code Editors and IDE's
+* [GNU Emacs](https://www.gnu.org/software/emacs/)
+* [Notepad++](https://notepad-plus-plus.org/)
+* [Atom](https://atom.io/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Vim](https://www.vim.org/)
+* [Eclipse](https://www.eclipse.org/downloads/)
+* [GNU Nano](https://www.nano-editor.org/)
+* [UltraEdit](https://www.ultraedit.com/)
+* [TextMate](https://macromates.com/)
+* [gedit](https://gitlab.gnome.org/GNOME/gedit/)
