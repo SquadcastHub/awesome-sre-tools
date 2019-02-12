@@ -1,7 +1,7 @@
 # Awesome Site Reliability Engineering tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of Site Reliability and Production Engineering tools
 
-## Continous Development Tools
+## Continous Development
 ### Source Code Management
 * [Git](https://git-scm.com/)
 * [CVS](https://www.nongnu.org/cvs/)
@@ -39,7 +39,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [gedit](https://gitlab.gnome.org/GNOME/gedit/)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 
-## Continous Testing Tools
+## Continous Testing
 * [Selinium](https://www.seleniumhq.org/)
 * [JUnit](https://junit.org/)
 * [TestNG](https://testng.org/doc/index.html)
@@ -55,7 +55,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Apache jMeter](https://jmeter.apache.org/)
 * [Appium](http://appium.io/)
 
-## Continous Integration Tools
+## Continous Integration
 ### Build Tools
 * [Maven](https://maven.apache.org/)
 * [Ant](https://ant.apache.org/)
