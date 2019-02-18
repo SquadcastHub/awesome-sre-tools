@@ -120,7 +120,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [loggly](https://www.loggly.com/)
 * [logmatic](https://logmatic.io/)
 * [Logstash](https://www.elastic.co/products/logstash)
-* [Mongo Atlas / Cloud Manager](https://www.mongodb.com/cloud/atlas)
+* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)/[MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager)
 * [NewRelic](https://newrelic.com/)
 * [Papertrail](https://papertrailapp.com/)
 * [Pingdom](https://tools.pingdom.com/)
