@@ -89,4 +89,42 @@ A curated list of Site Reliability and Production Engineering tools
 * [Shippable](https://app.shippable.com/)
 * [Codar Continous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
 
+### Infrastructure orchestration tools
+* [Vagrant](https://www.vagrantup.com/)
+* [Puppet](https://puppet.com/)
+* [Chef](https://www.chef.io/)
+* [SaltStack](https://www.saltstack.com/)
+* [Ansible](https://www.ansible.com/)
+* [Terraform](https://www.terraform.io/)
+* [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+
+### Container tools
+* [Docker](https://www.docker.com/)
+* [Turbo.NET](https://turbo.net/)
+* [WinDocks](https://windocks.com/)
+
+### Container Orchestration Tools
+* [Kubernetes](https://kubernetes.io/)
+* [Docker Swarm](https://docs.docker.com/engine/swarm/)
+* [Apache Mesos](http://mesos.apache.org/)
+
+## Continous Monitoring
+* [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
+* [Prometheus](https://prometheus.io/)
+* [StackDriver](https://cloud.google.com/stackdriver/)
+* [Sensu](https://sensu.io/)
+* [Sentry](https://sentry.io/welcome/)
+* [CopperEgg](https://www.idera.com/infrastructure-monitoring-as-a-service)
+* [Crashlytics](https://fabric.io/kits/android/crashlytics)
+* [Kapacitor](https://www.influxdata.com/time-series-platform/kapacitor/)
+* [loggly](https://www.loggly.com/)
+* [logmatic](https://logmatic.io/)
+* [Logstash](https://www.elastic.co/products/logstash)
+* [Mongo Atlas / Cloud Manager](https://www.mongodb.com/cloud/atlas)
+* [NewRelic](https://newrelic.com/)
+* [Papertrail](https://papertrailapp.com/)
+* [Pingdom](https://tools.pingdom.com/)
+* [ServerDensity](https://www.serverdensity.com/)
+* [Zabbix](https://www.zabbix.com/)
+* [InsightOps](https://www.rapid7.com/products/insightops/)
 
