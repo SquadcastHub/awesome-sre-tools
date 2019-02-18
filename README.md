@@ -78,3 +78,15 @@ A curated list of Site Reliability and Production Engineering tools
 * [Buildbot](http://buildbot.net/)
 * [Semaphore CI](https://semaphoreci.com/)
 * [Concourse CI](https://concourse-ci.org/)
+
+## Continous Delivery
+### Deployment Tools
+* [AWS CodeDeploy](https://aws.amazon.com/codedeploy/)
+* [ElectricFlow](http://electric-cloud.com/products/electricflow/)
+* [Octopus Deploy](https://octopus.com/)
+* [IBM UrbanCode](http://www-03.ibm.com/software/products/en/ucdep)
+* [DeployBot](https://deploybot.com/)
+* [Shippable](https://app.shippable.com/)
+* [Codar Continous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
+
+
