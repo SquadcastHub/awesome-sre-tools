@@ -145,3 +145,14 @@ A curated list of Site Reliability and Production Engineering tools
 * [Bigpanda](https://www.bigpanda.io/)
 * [OpenDuty](https://github.com/ustream/openduty)
 * [ngDesk](https://www.ngdesk.com/)
+
+### IT Service Management
+* [FreshService](https://freshservice.com/)
+* [ServiceNow](https://www.servicenow.com/)
+* [BMC Remedy](http://www.bmcsoftware.in/it-solutions/remedy-itsm.html)
+* [Jira ServiceDesk](https://www.atlassian.com/software/jira/service-desk)
+* [Samanage](https://www.samanage.com/)
+* [Cherwell](https://www.cherwell.com/products/it-service-management/)
+* [SpiceWorks](https://www.spiceworks.com/)
+* [SysAid](https://www.sysaid.com/it-service-management-software)
+* [ManageEngine Servicedesk plus](https://www.manageengine.com/products/service-desk/)
