@@ -57,6 +57,11 @@ A curated list of Site Reliability and Production Engineering tools
 
 ## Continous Integration
 ### Build
+* [Ninja](https://ninja-build.org/)
+* [Meson](https://mesonbuild.com/)
+* [CMake](https://cmake.org/)
+* [Autotools/Automake](https://www.gnu.org/software/automake/)
+* [premake](https://premake.github.io/)
 * [Maven](https://maven.apache.org/)
 * [Ant](https://ant.apache.org/)
 * [Gradle](https://gradle.org/)
