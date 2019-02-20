@@ -110,6 +110,16 @@ A curated list of Site Reliability and Production Engineering tools
 * [Turbo.NET](https://turbo.net/)
 * [WinDocks](https://windocks.com/)
 
+### Docker Registry
+* [Docker Hub](https://hub.docker.com/)
+* [Google Container Registry](https://cloud.google.com/container-registry/)
+* [Amazon ECR](https://aws.amazon.com/ecr/)
+* [Gitlab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry/)
+* [JFrog Artifactory](https://jfrog.com/artifactory/)
+* [Quay.io](https://quay.io/)
+* [Azure Container Registry](https://azure.microsoft.com/en-in/services/container-registry/)
+* [Oracle Container Registry](https://container-registry.oracle.com)
+
 ### Container Orchestration
 * [Kubernetes](https://kubernetes.io/)
 * [Docker Swarm](https://docs.docker.com/engine/swarm/)
