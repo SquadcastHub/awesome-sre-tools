@@ -56,7 +56,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Appium](http://appium.io/)
 
 ## Continous Integration
-### Build Tools
+### Build
 * [Maven](https://maven.apache.org/)
 * [Ant](https://ant.apache.org/)
 * [Gradle](https://gradle.org/)
@@ -66,7 +66,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [MS Build](https://www.microsoft.com/en-us/build)
 * [Drill](https://gitlab.com/aki237/drill)
 
-### Integration Tools
+### Integration
 * [Jenkins](https://jenkins.io/)
 * [Bamboo](https://www.atlassian.com/software/bamboo)
 * [Hudson](http://hudson-ci.org/)
@@ -80,7 +80,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Concourse CI](https://concourse-ci.org/)
 
 ## Continous Delivery
-### Deployment Tools
+### Deployment
 * [AWS CodeDeploy](https://aws.amazon.com/codedeploy/)
 * [ElectricFlow](http://electric-cloud.com/products/electricflow/)
 * [Octopus Deploy](https://octopus.com/)
@@ -89,7 +89,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Shippable](https://app.shippable.com/)
 * [Codar Continous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
 
-### Infrastructure orchestration tools
+### Infrastructure orchestration
 * [Vagrant](https://www.vagrantup.com/)
 * [Puppet](https://puppet.com/)
 * [Chef](https://www.chef.io/)
@@ -98,12 +98,12 @@ A curated list of Site Reliability and Production Engineering tools
 * [Terraform](https://www.terraform.io/)
 * [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 
-### Container tools
+### Container
 * [Docker](https://www.docker.com/)
 * [Turbo.NET](https://turbo.net/)
 * [WinDocks](https://windocks.com/)
 
-### Container Orchestration Tools
+### Container Orchestration
 * [Kubernetes](https://kubernetes.io/)
 * [Docker Swarm](https://docs.docker.com/engine/swarm/)
 * [Apache Mesos](http://mesos.apache.org/)
