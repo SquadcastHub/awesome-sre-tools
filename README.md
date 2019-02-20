@@ -4,6 +4,7 @@ A curated list of Site Reliability and Production Engineering tools
 ## Continous Development
 ### Source Code Management
 * [Git](https://git-scm.com/)
+* [Fossil](https://www.fossil-scm.org/)
 * [CVS](https://www.nongnu.org/cvs/)
 * [Subversion](https://subversion.apache.org/)
 * [Mercurial](https://www.mercurial-scm.org/)
