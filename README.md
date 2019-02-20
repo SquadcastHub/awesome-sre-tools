@@ -19,6 +19,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Taiga](https://taiga.io/)
 * [Wrike](https://www.wrike.com/)
 * [Redmine](https://www.redmine.org/)
+* [Asana](https://asana.com/)
 
 ### Bug / Defect Tracking Software
 * [Bugzilla](https://www.bugzilla.org/)
