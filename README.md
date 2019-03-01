@@ -72,6 +72,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Rake](https://ruby.github.io/rake/)
 * [MS Build](https://www.microsoft.com/en-us/build)
 * [Drill](https://gitlab.com/aki237/drill)
+* [Hydra](https://nixos.org/hydra/)
 
 ### Integration
 * [Jenkins](https://jenkins.io/)
@@ -85,6 +86,26 @@ A curated list of Site Reliability and Production Engineering tools
 * [Buildbot](http://buildbot.net/)
 * [Semaphore CI](https://semaphoreci.com/)
 * [Concourse CI](https://concourse-ci.org/)
+* [Abstruse CI](https://github.com/bleenco/abstruse)
+* [Appcenter](https://appcenter.ms/)
+* [Appveyor](https://ci.appveyor.com/)
+* [Assertible](https://assertible.com/)
+* [Badwolf](https://github.com/bosondata/badwolf)
+* [Britise](http://bitrise.io/)
+* [Buildkite](https://buildkite.com/)
+* [Chrono CI](https://www.chronoci.com/)
+* [Codacy](https://www.codacy.com/)
+* [CodeClimate](https://www.codeclimate.com/)
+* [CodeFresh](https://codefresh.io/)
+* [Codeship](https://www.codeship.io/)
+* [Continousphp](https://continuousphp.com/)
+* [Drone](https://drone.io/)
+* [Hound CI](https://houndci.com/)
+* [Probo.CI](https://probo.ci/)
+* [Solano CI](https://www.solanolabs.com/)
+* [Style CI](https://styleci.io/)
+* [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
+
 
 ## Continous Delivery
 ### Deployment
@@ -95,6 +116,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [DeployBot](https://deploybot.com/)
 * [Shippable](https://app.shippable.com/)
 * [Codar Continous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
+* [Wercker](https://app.wercker.com/)
 
 ### Infrastructure orchestration
 * [Vagrant](https://www.vagrantup.com/)
