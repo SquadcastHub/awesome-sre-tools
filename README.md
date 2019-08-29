@@ -105,6 +105,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Solano CI](https://www.solanolabs.com/)
 * [Style CI](https://styleci.io/)
 * [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
+* [Go CD](https://www.gocd.org/)
 
 
 ## Continous Delivery
@@ -145,7 +146,7 @@ A curated list of Site Reliability and Production Engineering tools
 ### Container Orchestration
 * [Kubernetes](https://kubernetes.io/)
 * [Docker Swarm](https://docs.docker.com/engine/swarm/)
-* [Apache Mesos](http://mesos.apache.org/)
+* [Apache Mesos](http://mesos.apache.org/) with [Marathon](https://mesosphere.github.io/marathon/)
 
 ## Continous Monitoring
 * [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
