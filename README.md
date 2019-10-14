@@ -167,6 +167,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [ServerDensity](https://www.serverdensity.com/)
 * [Zabbix](https://www.zabbix.com/)
 * [InsightOps](https://www.rapid7.com/products/insightops/)
+* [AppSignal](https://appsignal.com)
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 * [Squadcast](https://www.squadcast.com)
