@@ -34,7 +34,7 @@ Table of Contents
 * [CVS](https://www.nongnu.org/cvs/)
 * [Subversion](https://subversion.apache.org/)
 * [Mercurial](https://www.mercurial-scm.org/)
-* [Github](https://github.com/)
+* [GitHub](https://github.com/)
 * [Gitlab](https://about.gitlab.com/)
 * [Bitbucket](https://bitbucket.org/)
 
