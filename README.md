@@ -5,27 +5,25 @@ Awesome Site Reliability Engineering Tools [![Awesome](https://awesome.re/badge-
 
 A curated list of Site Reliability and Production Engineering tools
 
-Table of Contents
-=================
-
+# Table of Contents
 * [Development](#development)
-   * [Source Code Management](#source-code-management)
-   * [Project Management &amp; Issue Tracking Software](#project-management--issue-tracking-software)
-   * [Bug / Defect Tracking Software](#bug--defect-tracking-software)
-   * [Code Editors and IDE's](#code-editors-and-ides)
+  * [Source Code Management](#source-code-management)
+  * [Project Management &amp; Issue Tracking Software](#project-management--issue-tracking-software)
+  * [Bug / Defect Tracking Software](#bug--defect-tracking-software)
+  * [Code Editors and IDE's](#code-editors-and-ides)
 * [Continous Testing](#continous-testing)
 * [Continous Integration](#continous-integration)
-   * [Build](#build)
-   * [Integration](#integration)
+  * [Build](#build)
+  * [Integration](#integration)
 * [Continous Delivery](#continous-delivery)
-   * [Deployment](#deployment)
-   * [Infrastructure orchestration](#infrastructure-orchestration)
-   * [Container](#container)
-   * [Docker Registry](#docker-registry)
-   * [Container Orchestration](#container-orchestration)
+  * [Deployment](#deployment)
+  * [Infrastructure orchestration](#infrastructure-orchestration)
+  * [Container](#container)
+  * [Docker Registry](#docker-registry)
+  * [Container Orchestration](#container-orchestration)
 * [Continous Monitoring](#continous-monitoring)
 * [Incident Management / Incident Response / IT Alerting / On-Call](#incident-management--incident-response--it-alerting--on-call)
-    * [IT Service Management](#it-service-management)
+  * [IT Service Management](#it-service-management)
 
 ## Development
 ### Source Code Management
@@ -174,7 +172,7 @@ Table of Contents
 ### Container Orchestration
 * [Kubernetes](https://kubernetes.io/)
 * [Docker Swarm](https://docs.docker.com/engine/swarm/)
-* [Apache Mesos](http://mesos.apache.org/) with [Marathon](https://mesosphere.github.io/marathon/)
+* [Apache Mesos](http://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
 
 ## Continous Monitoring
 * [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
@@ -188,7 +186,8 @@ Table of Contents
 * [loggly](https://www.loggly.com/)
 * [logmatic](https://logmatic.io/)
 * [Logstash](https://www.elastic.co/products/logstash)
-* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) / [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager)
+* [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) 
+* [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager)
 * [NewRelic](https://newrelic.com/)
 * [Papertrail](https://papertrailapp.com/)
 * [Pingdom](https://tools.pingdom.com/)
