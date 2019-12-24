@@ -1,6 +1,3 @@
-<!--lint ignore awesome-git-repo-age--> 
-<!--lint ignore awesome-license--> 
-<!--lint ignore awesome-github--> 
 # Awesome Site Reliability Engineering Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <!--lint ignore no-dead-urls--> 
@@ -9,7 +6,7 @@
 A curated list of Site Reliability and Production Engineering tools
 
 ## Contents
-<!--lint ignore awesome-list-item-->
+
 - [Development](#development)
   - [Source Code Management](#source-code-management)
   - [Project Management &amp; Issue Tracking Software](#project-management--issue-tracking-software)
@@ -46,8 +43,6 @@ A curated list of Site Reliability and Production Engineering tools
 - [Zoho Sprints](https://www.zoho.com/sprints/)
 - [Taiga](https://taiga.io/)
 - [Wrike](https://www.wrike.com/)
-<!--lint ignore no-dead-urls--> 
-- [Redmine](https://www.redmine.org/)
 - [Asana](https://asana.com/)
 - [monday.com](https://monday.com/)
 
@@ -133,7 +128,6 @@ A curated list of Site Reliability and Production Engineering tools
 - [Hound CI](https://houndci.com/)
 - [Probo.CI](https://probo.ci/)
 - [Solano CI](https://xebialabs.com/technology/solano-ci/)
-- [Style CI](https://styleci.io/)
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
 
@@ -228,8 +222,6 @@ A curated list of Site Reliability and Production Engineering tools
 - [Jira ServiceDesk](https://www.atlassian.com/software/jira/service-desk)
 - [Samanage](https://www.samanage.com/)
 - [Cherwell](https://www.cherwell.com/products/it-service-management/)
-<!--lint ignore no-dead-urls--> 
-- [SpiceWorks](https://www.spiceworks.com/)
 - [SysAid](https://www.sysaid.com/it-service-management-software)
 - [ManageEngine Servicedesk plus](https://www.manageengine.com/products/service-desk/)
 
