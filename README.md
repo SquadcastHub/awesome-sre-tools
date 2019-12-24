@@ -43,6 +43,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Zoho Sprints](https://www.zoho.com/sprints/)
 - [Taiga](https://taiga.io/)
 - [Wrike](https://www.wrike.com/)
+<!--lint ignore no-dead-urls--> 
 - [Redmine](https://www.redmine.org/)
 - [Asana](https://asana.com/)
 - [monday.com](https://monday.com/)
@@ -224,6 +225,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Jira ServiceDesk](https://www.atlassian.com/software/jira/service-desk)
 - [Samanage](https://www.samanage.com/)
 - [Cherwell](https://www.cherwell.com/products/it-service-management/)
+<!--lint ignore no-dead-urls--> 
 - [SpiceWorks](https://www.spiceworks.com/)
 - [SysAid](https://www.sysaid.com/it-service-management-software)
 - [ManageEngine Servicedesk plus](https://www.manageengine.com/products/service-desk/)
