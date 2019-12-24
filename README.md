@@ -1,4 +1,5 @@
 <!--lint ignore awesome-git-repo-age--> 
+<!--lint ignore awesome-license--> 
 <!--lint ignore awesome-github--> 
 # Awesome Site Reliability Engineering Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
