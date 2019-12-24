@@ -188,6 +188,7 @@ A curated list of Site Reliability and Production Engineering tools
 * [Bigpanda](https://www.bigpanda.io/)
 * [OpenDuty](https://github.com/ustream/openduty)
 * [ngDesk](https://www.ngdesk.com/)
+* [Geneos](https://www.itrsgroup.com/products/geneos)
 
 ### IT Service Management
 * [FreshService](https://freshservice.com/)
