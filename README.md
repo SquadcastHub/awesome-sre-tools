@@ -6,6 +6,7 @@ Awesome Site Reliability Engineering Tools [![Awesome](https://awesome.re/badge-
 A curated list of Site Reliability and Production Engineering tools
 
 # Table of Contents
+<!--lint ignore awesome-list-item-->
 - [Development](#development)
   - [Source Code Management](#source-code-management)
   - [Project Management &amp; Issue Tracking Software](#project-management--issue-tracking-software)
