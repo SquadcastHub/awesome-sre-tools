@@ -1,7 +1,18 @@
-Awesome Site Reliability Engineering Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Site Reliability Engineering Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <!--lint ignore no-dead-urls--> 
 [![GitHub Actions status | squadcastHQ/awesome-sre-tools](https://github.com/squadcastHQ/awesome-sre-tools/workflows/Lint%20with%20awesome-lint/badge.svg)](https://github.com/squadcastHQ/awesome-sre-tools/actions?workflow=Lint+with+awesome-lint)
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 A curated list of Site Reliability and Production Engineering tools
 
