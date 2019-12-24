@@ -1,4 +1,4 @@
-# Awesome Site Reliability Engineering tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Site Reliability Engineering tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!--lint ignore no-dead-urls--> [![GitHub Actions status | squadcastHQ/awesome-sre-tools](https://github.com/squadcastHQ/awesome-sre-tools/workflows/Lint%20with%20awesome-lint/badge.svg)](https://github.com/squadcastHQ/awesome-sre-tools/actions?workflow=Lint+with+awesome-lint)
 A curated list of Site Reliability and Production Engineering tools
 
 ## Development
