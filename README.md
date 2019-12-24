@@ -3,6 +3,8 @@
 <!--lint ignore no-dead-urls--> 
 [![GitHub Actions status | squadcastHQ/awesome-sre-tools](https://github.com/squadcastHQ/awesome-sre-tools/workflows/Lint%20with%20awesome-lint/badge.svg)](https://github.com/squadcastHQ/awesome-sre-tools/actions?workflow=Lint+with+awesome-lint)
 
+## License
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
