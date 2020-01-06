@@ -194,6 +194,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Zabbix](https://www.zabbix.com/)
 - [InsightOps](https://www.rapid7.com/products/insightops/)
 - [AppSignal](https://appsignal.com)
+- [Grafana](https://grafana.com)
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
