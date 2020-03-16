@@ -1,7 +1,6 @@
 # Awesome Site Reliability Engineering Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <!--lint ignore no-dead-urls--> 
-[![GitHub Actions status | squadcastHQ/awesome-sre-tools](https://github.com/squadcastHQ/awesome-sre-tools/workflows/Lint%20with%20awesome-lint/badge.svg)](https://github.com/squadcastHQ/awesome-sre-tools/actions?workflow=Lint+with+awesome-lint)
 
 A curated list of Site Reliability and Production Engineering tools
 
