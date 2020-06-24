@@ -141,6 +141,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Shippable](https://app.shippable.com/)
 - [Codar Continous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
 - [Wercker](https://app.wercker.com/)
+- [Humanitec](https://humanitec.com/)
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
