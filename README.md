@@ -214,6 +214,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [OpenDuty](https://github.com/ustream/openduty)
 - [ngDesk](https://www.ngdesk.com/)
 - [Geneos](https://www.itrsgroup.com/products/geneos)
+- [FireHydrant](https://www.firehydrant.com)
 
 
 ### IT Service Management
