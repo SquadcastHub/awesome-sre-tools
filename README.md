@@ -215,6 +215,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [ngDesk](https://www.ngdesk.com/)
 - [Geneos](https://www.itrsgroup.com/products/geneos)
 - [FireHydrant](https://www.firehydrant.com)
+- [SLO exporter](https://github.com/seznam/slo-exporter)
 
 
 ### IT Service Management
