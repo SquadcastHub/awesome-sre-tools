@@ -66,7 +66,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 
 ## Continous Testing
-- [Selinium](https://www.seleniumhq.org/)
+- [Selenium](https://www.seleniumhq.org/)
 - [JUnit](https://junit.org/)
 - [TestNG](https://testng.org/doc/index.html)
 - [NUnit](https://nunit.org/)
