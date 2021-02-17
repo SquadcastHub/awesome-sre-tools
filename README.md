@@ -142,6 +142,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Codar Continous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
 - [Wercker](https://app.wercker.com/)
 - [Humanitec](https://humanitec.com/)
+- [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
