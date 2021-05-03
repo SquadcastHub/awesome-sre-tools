@@ -176,6 +176,7 @@ A curated list of Site Reliability and Production Engineering tools
 ## Continous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
 - [Prometheus](https://prometheus.io/)
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 - [StackDriver](https://cloud.google.com/stackdriver/)
 - [Sensu](https://sensu.io/)
 - [Sentry](https://sentry.io/welcome/)
