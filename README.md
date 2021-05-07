@@ -216,6 +216,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Geneos](https://www.itrsgroup.com/products/geneos)
 - [FireHydrant](https://www.firehydrant.com)
 - [SLO exporter](https://github.com/seznam/slo-exporter)
+- [SLO Calculator](https://github.com/last9/slo-computer)
 
 
 ### IT Service Management
