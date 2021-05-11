@@ -176,7 +176,6 @@ A curated list of Site Reliability and Production Engineering tools
 ## Continous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
 - [Prometheus](https://prometheus.io/)
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 - [StackDriver](https://cloud.google.com/stackdriver/)
 - [Sensu](https://sensu.io/)
 - [Sentry](https://sentry.io/welcome/)
@@ -196,6 +195,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [InsightOps](https://www.rapid7.com/products/insightops/)
 - [AppSignal](https://appsignal.com)
 - [Grafana](https://grafana.com)
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
