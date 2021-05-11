@@ -196,6 +196,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [InsightOps](https://www.rapid7.com/products/insightops/)
 - [AppSignal](https://appsignal.com)
 - [Grafana](https://grafana.com)
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
