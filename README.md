@@ -50,6 +50,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Bugsee](https://www.bugsee.com/)
 - [Instabug](https://instabug.com/)
 - [Zoho BugTracker](https://www.zoho.in/bugtracker/)
+- [Bugasura](https://bugasura.io)
 
 ### Code Editors and IDE's
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
