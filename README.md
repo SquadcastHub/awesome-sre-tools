@@ -199,7 +199,6 @@ A curated list of Site Reliability and Production Engineering tools
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
-- [Rootly](https://www.rootly.io)
 - [Squadcast](https://www.squadcast.com)
 - [PagerDuty](https://www.pagerduty.com/)
 - [VictorOps](https://victorops.com/)
@@ -220,6 +219,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [FireHydrant](https://www.firehydrant.com)
 - [SLO exporter](https://github.com/seznam/slo-exporter)
 - [SLO Calculator](https://github.com/last9/slo-computer)
+- [Rootly](https://www.rootly.io)
 
 
 ### IT Service Management
