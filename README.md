@@ -220,6 +220,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [FireHydrant](https://www.firehydrant.com)
 - [SLO exporter](https://github.com/seznam/slo-exporter)
 - [SLO Calculator](https://github.com/last9/slo-computer)
+- [Rootly](https://www.rootly.io)
 
 
 ### IT Service Management
