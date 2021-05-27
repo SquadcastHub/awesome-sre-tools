@@ -169,6 +169,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Azure Container Registry](https://azure.microsoft.com/en-in/services/container-registry/)
 - [Oracle Container Registry](https://container-registry.oracle.com)
 - [Nexus Container Registry](https://help.sonatype.com/repomanager3/formats/docker-registry)
+- [Harbor](https://goharbor.io/)
 
 ### Container Orchestration
 - [Kubernetes](https://kubernetes.io/)
