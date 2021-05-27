@@ -164,6 +164,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Docker Hub](https://hub.docker.com/)
 - [Gitlab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry/)
 - [Google Container Registry](https://cloud.google.com/container-registry/)
+- [Harbor](https://goharbor.io/)
 - [JFrog Artifactory](https://jfrog.com/artifactory/)
 - [Nexus Container Registry](https://help.sonatype.com/repomanager3/formats/docker-registry)
 - [Oracle Container Registry](https://container-registry.oracle.com)
