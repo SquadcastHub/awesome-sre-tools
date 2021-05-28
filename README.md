@@ -153,6 +153,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Ansible](https://www.ansible.com/)
 - [Terraform](https://www.terraform.io/)
 - [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+- [Rundeck](https://www.rundeck.com/)
 
 ### Container
 - [Docker](https://www.docker.com/)
