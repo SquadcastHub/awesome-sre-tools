@@ -149,6 +149,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Ansible](https://www.ansible.com/)
 - [Chef](https://www.chef.io/)
 - [Puppet](https://puppet.com/)
+- [Rundeck](https://www.rundeck.com/)
 - [SaltStack](https://www.saltstack.com/)
 - [Terraform](https://www.terraform.io/)
 - [Vagrant](https://www.vagrantup.com/)
