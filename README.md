@@ -146,6 +146,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Wercker](https://app.wercker.com/)
 - [Humanitec](https://humanitec.com/)
 - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
+- [Buddy Works](https://buddy.works/)
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
