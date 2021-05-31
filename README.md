@@ -98,6 +98,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [MS Build](https://www.microsoft.com/en-us/build)
 - [Drill](https://gitlab.com/aki237/drill)
 - [Hydra](https://nixos.org/hydra/)
+- [Bazel](https://bazel.io)
 
 ### Integration
 - [Jenkins](https://jenkins.io/)
