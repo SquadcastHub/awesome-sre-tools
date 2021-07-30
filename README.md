@@ -82,6 +82,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [accelQ](https://www.accelq.com/)
 - [Apache jMeter](https://jmeter.apache.org/)
 - [Appium](http://appium.io/)
+- - [steadybit](https://www.steadybit.com/)
 
 ## Continous Integration
 ### Build
