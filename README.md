@@ -206,6 +206,8 @@ A curated list of Site Reliability and Production Engineering tools
 - [AppSignal](https://appsignal.com)
 - [Grafana](https://grafana.com)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
+- [Chaos Genius](https://www.chaosgenius.io/)
+
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
