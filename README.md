@@ -19,7 +19,7 @@ A curated list of Site Reliability and Production Engineering tools
   - [Deployment](#deployment)
   - [Infrastructure orchestration](#infrastructure-orchestration)
   - [Container](#container)
-  - [Docker Registry](#docker-registry)
+  - [Container Registry](#container-registry)
   - [Container Orchestration](#container-orchestration)
 - [Continous Monitoring](#continous-monitoring)
 - [Incident Management / Incident Response / IT Alerting / On-Call](#incident-management--incident-response--it-alerting--on-call)
@@ -166,7 +166,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [WinDocks](https://windocks.com/)
 - [Podman](https://podman.io/)
 
-### Docker Registry
+### Container Registry
 - [Docker Hub](https://hub.docker.com/)
 - [Google Container Registry](https://cloud.google.com/container-registry/)
 - [Amazon ECR](https://aws.amazon.com/ecr/)
