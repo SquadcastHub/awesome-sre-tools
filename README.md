@@ -207,6 +207,8 @@ A curated list of Site Reliability and Production Engineering tools
 - [Grafana](https://grafana.com)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 - [Chaos Genius](https://www.chaosgenius.io/)
+- [Thanos](https://thanos.io/)
+- [Mimir](https://grafana.com/oss/mimir/) 
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
