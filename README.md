@@ -83,6 +83,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Apache jMeter](https://jmeter.apache.org/)
 - [Appium](http://appium.io/)
 - [steadybit](https://www.steadybit.com/)
+- [k6s](https://k6.io/)
 
 ## Continous Integration
 ### Build
@@ -165,6 +166,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Turbo.NET](https://turbo.net/)
 - [WinDocks](https://windocks.com/)
 - [Podman](https://podman.io/)
+- [containerd](https://containerd.io/)
 
 ### Container Registry
 - [Docker Hub](https://hub.docker.com/)
@@ -233,7 +235,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [SLO exporter](https://github.com/seznam/slo-exporter)
 - [SLO Calculator](https://github.com/last9/slo-computer)
 - [Rootly](https://www.rootly.io)
-
+- [Grafana OnCall](https://grafana.com/oss/oncall/)
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
