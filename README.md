@@ -248,6 +248,11 @@ A curated list of Site Reliability and Production Engineering tools
 - [ManageEngine Servicedesk plus](https://www.manageengine.com/products/service-desk/)
 
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/SquadcastHub/awesome-sre-tools.svg)](https://starchart.cc/SquadcastHub/awesome-sre-tools)
+
+
 ## Licence
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
