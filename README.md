@@ -211,6 +211,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Chaos Genius](https://www.chaosgenius.io/)
 - [Thanos](https://thanos.io/)
 - [Mimir](https://grafana.com/oss/mimir/) 
+- [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
