@@ -24,6 +24,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Continous Monitoring](#continous-monitoring)
 - [Incident Management / Incident Response / IT Alerting / On-Call](#incident-management--incident-response--it-alerting--on-call)
   - [IT Service Management](#it-service-management)
+  - [Incident Communication](#incident-communication)
 
 ## Development
 ### Source Code Management
@@ -248,6 +249,9 @@ A curated list of Site Reliability and Production Engineering tools
 - [Cherwell](https://www.cherwell.com/products/it-service-management/)
 - [SysAid](https://www.sysaid.com/it-service-management-software)
 - [ManageEngine Servicedesk plus](https://www.manageengine.com/products/service-desk/)
+
+### Incident Communication
+- [StatusPal](https://statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome-devops) - communicate incidents and maintenance effectively with a beautiful hosted status page.
 
 
 ## Stargazers over time
