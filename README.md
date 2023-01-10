@@ -187,6 +187,7 @@ A curated list of Site Reliability and Production Engineering tools
 
 ## Continous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
+- [DebugBear](https://www.debugbear.com/)
 - [Prometheus](https://prometheus.io/)
 - [StackDriver](https://cloud.google.com/stackdriver/)
 - [Sensu](https://sensu.io/)
