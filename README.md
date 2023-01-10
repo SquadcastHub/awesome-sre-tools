@@ -28,14 +28,11 @@ A curated list of Site Reliability and Production Engineering tools
 ## Development
 ### Source Code Management
 - [Git](https://git-scm.com/)
-- [Fossil](https://www.fossil-scm.org/)
-- [CVS](https://www.nongnu.org/cvs/)
-- [Subversion](https://subversion.apache.org/)
-- [Mercurial](https://www.mercurial-scm.org/)
 - [GitHub](https://github.com/)
 - [Gitlab](https://about.gitlab.com/)
 - [Bitbucket](https://bitbucket.org/)
-- [Phabricator](https://www.phacility.com/phabricator/)
+- [Fossil](https://www.fossil-scm.org/)
+- [Mercurial](https://www.mercurial-scm.org/)
 
 ### Project Management & Issue Tracking Software
 - [Jira](https://www.atlassian.com/software/jira)
@@ -45,6 +42,8 @@ A curated list of Site Reliability and Production Engineering tools
 - [Wrike](https://www.wrike.com/)
 - [Asana](https://asana.com/)
 - [monday.com](https://monday.com/)
+- [Clickup](https://clickup.com/)
+- [Basecamp](https://basecamp.com/)
 
 ### Bug / Defect Tracking Software
 - [Bugzilla](https://www.bugzilla.org/)
