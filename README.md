@@ -186,6 +186,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Apache Mesos](http://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
 
 ## Continous Monitoring
+- [Steampipe](https://steampipe.io/)
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
 - [DebugBear](https://www.debugbear.com/)
 - [Prometheus](https://prometheus.io/)
