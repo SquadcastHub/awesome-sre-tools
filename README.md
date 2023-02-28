@@ -238,6 +238,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [SLO Calculator](https://github.com/last9/slo-computer)
 - [Rootly](https://www.rootly.io)
 - [Grafana OnCall](https://grafana.com/oss/oncall/)
+- [Keep - CLI for alerting](https://github.com/keephq/keep)
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
