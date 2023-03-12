@@ -2,7 +2,7 @@
 
 <!--lint ignore no-dead-urls--> 
 
-A curated list of Site Reliability and Production Engineering tools
+A curated list of Site Reliability and Production Engineering tools - Maintained by [Raghu Chinnannan](https://twitter.com/RaghuChinnannan) and [Squadcast](https://www.squadcast.com/)
 
 ## Contents
 
