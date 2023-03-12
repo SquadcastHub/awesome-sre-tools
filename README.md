@@ -213,7 +213,8 @@ A curated list of Site Reliability and Production Engineering tools
 - [Thanos](https://thanos.io/)
 - [Mimir](https://grafana.com/oss/mimir/) 
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
-- [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API 
+- [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
+- [Better Stack](https://betterstack.com/)
 - [Netdata](https://netdata.cloud)
 
 
@@ -241,6 +242,7 @@ A curated list of Site Reliability and Production Engineering tools
 - [Rootly](https://www.rootly.io)
 - [Grafana OnCall](https://grafana.com/oss/oncall/)
 - [Keep - CLI for alerting](https://github.com/keephq/keep)
+- [Better Stack](https://betterstack.com/)
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
