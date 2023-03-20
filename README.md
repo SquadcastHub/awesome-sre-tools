@@ -160,6 +160,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 - [Rundeck](https://www.rundeck.com/)
 - [Spacelift](https://spacelift.io/)
+- [Selefra](https://www.selefra.io/)
 
 ### Container
 - [Docker](https://www.docker.com/)
