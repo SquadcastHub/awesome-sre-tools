@@ -258,7 +258,10 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [ManageEngine Servicedesk plus](https://www.manageengine.com/products/service-desk/)
 
 ### Incident Communication
+- [Squadcast Statuspages](https://www.squadcast.com/statuspage)
 - [StatusPal](https://statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome-devops) - communicate incidents and maintenance effectively with a beautiful hosted status page.
+- [Hydrozen.io Statuspages](https://hydrozen.io)
+- [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
 
 
 ## Stargazers over time
