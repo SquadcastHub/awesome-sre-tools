@@ -161,6 +161,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Rundeck](https://www.rundeck.com/)
 - [Spacelift](https://spacelift.io/)
 - [Selefra](https://www.selefra.io/)
+- [Scalr](https://www.scalr.com/)
 
 ### Container
 - [Docker](https://www.docker.com/)
