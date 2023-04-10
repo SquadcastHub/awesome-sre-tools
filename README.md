@@ -219,6 +219,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
 - [Netdata](https://netdata.cloud)
+- [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt) - Brings GPT into production for application log error monitoring
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
