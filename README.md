@@ -263,6 +263,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [StatusPal](https://statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome-devops) - communicate incidents and maintenance effectively with a beautiful hosted status page.
 - [Hydrozen.io Statuspages](https://hydrozen.io)
 - [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
+- [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
 
 
 ## Stargazers over time
