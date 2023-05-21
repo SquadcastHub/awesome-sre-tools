@@ -34,6 +34,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Bitbucket](https://bitbucket.org/)
 - [Fossil](https://www.fossil-scm.org/)
 - [Mercurial](https://www.mercurial-scm.org/)
+- [Perforce Helix Core](https://www.perforce.com/products/helix-core/)
+- [Subversion (SVN)](https://subversion.apache.org/)
 
 ### Project Management & Issue Tracking Software
 - [Jira](https://www.atlassian.com/software/jira)
@@ -46,6 +48,14 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Clickup](https://clickup.com/)
 - [Basecamp](https://basecamp.com/)
 - [Rally](https://www.broadcom.com/products/software/value-stream-management/rally)
+- [Teamwork](https://www.teamwork.com/)
+- [Redmine](https://www.redmine.org/)
+- [Freedcamp](https://www.freedcamp.com/)
+- [Shortcut](https://www.shortcut.com/)
+- [Azure Boards](https://azure.microsoft.com/en-us/products/devops/boards/)
+- [GitHub Projects](https://github.com/features/project-management)
+- [GitLab Boards](https://docs.gitlab.com/ee/user/project/issue_board.html)
+- [Bitbucket Issues](https://bitbucket.org/product/features/issues)
 
 ### Bug / Defect Tracking Software
 - [Bugzilla](https://www.bugzilla.org/)
@@ -53,6 +63,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Instabug](https://instabug.com/)
 - [Zoho BugTracker](https://www.zoho.in/bugtracker/)
 - [Bugasura](https://bugasura.io)
+- [Mantis Bug Tracker](https://www.mantisbt.org/)
 
 ### Code Editors and IDE's
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
@@ -67,6 +78,9 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [TextMate](https://macromates.com/)
 - [gedit](https://gitlab.gnome.org/GNOME/gedit/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) 
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Eclipse Che](https://www.eclipse.org/che/)
 
 ## Continous Testing
 - [Selenium](https://www.seleniumhq.org/)
@@ -85,6 +99,10 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Appium](http://appium.io/)
 - [steadybit](https://www.steadybit.com/)
 - [k6s](https://k6.io/)
+- [Apache JMeter](https://jmeter.apache.org/)
+- [Gatling](https://gatling.io/)
+- [Cypress](https://www.cypress.io/)
+- [TestRail](https://www.gurock.com/testrail/)
 
 ## Continous Integration
 ### Build
@@ -103,6 +121,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Drill](https://gitlab.com/aki237/drill)
 - [Hydra](https://nixos.org/hydra/)
 - [Bazel](https://bazel.io)
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
 
 ### Integration
 - [Jenkins](https://jenkins.io/)
@@ -151,6 +170,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
 - [Buddy Works](https://buddy.works/)
 - [werf](https://werf.io/)
+- [Google Cloud Build](https://cloud.google.com/build)
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
@@ -164,6 +184,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Spacelift](https://spacelift.io/)
 - [Selefra](https://www.selefra.io/)
 - [Scalr](https://www.scalr.com/)
+- [Pulumi](https://www.pulumi.com/)
+- [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/)
 
 ### Container
 - [Docker](https://www.docker.com/)
@@ -171,6 +193,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [WinDocks](https://windocks.com/)
 - [Podman](https://podman.io/)
 - [containerd](https://containerd.io/)
+- [OpenShift](https://www.openshift.com/)
 
 ### Container Registry
 - [Docker Hub](https://hub.docker.com/)
@@ -221,6 +244,9 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Better Stack](https://betterstack.com/)
 - [Netdata](https://netdata.cloud)
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt) - Brings GPT into production for application log error monitoring
+- [Dynatrace](https://www.dynatrace.com/)
+- [Datadog](https://www.datadoghq.com/)
+- [Elastic APM](https://www.elastic.co/apm)
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
@@ -248,16 +274,20 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Grafana OnCall](https://grafana.com/oss/oncall/)
 - [Keep - CLI for alerting](https://github.com/keephq/keep)
 - [Better Stack](https://betterstack.com/)
+- [OpsLevel](https://www.opslevel.com/)
+- [Everbridge](https://www.everbridge.com/)
+- [Moogsoft](https://www.moogsoft.com/)
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
 - [ServiceNow](https://www.servicenow.com/)
 - [BMC Remedy](http://www.bmcsoftware.in/it-solutions/remedy-itsm.html)
-- [Jira ServiceDesk](https://www.atlassian.com/software/jira/service-desk)
+- [Jira Service Management(formerly Jira Service Desk)](https://www.atlassian.com/software/jira/service-management)
 - [Samanage](https://www.samanage.com/)
 - [Cherwell](https://www.cherwell.com/products/it-service-management/)
 - [SysAid](https://www.sysaid.com/it-service-management-software)
 - [ManageEngine Servicedesk plus](https://www.manageengine.com/products/service-desk/)
+- [Zendesk](https://www.zendesk.com/)
 
 ### Incident Communication
 - [Squadcast Statuspages](https://www.squadcast.com/statuspage)
@@ -265,6 +295,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Hydrozen.io Statuspages](https://hydrozen.io)
 - [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
 - [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
+- [Cachet](https://cachethq.io/)
 
 
 ## Stargazers over time
