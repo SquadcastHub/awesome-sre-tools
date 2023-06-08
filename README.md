@@ -46,6 +46,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Clickup](https://clickup.com/)
 - [Basecamp](https://basecamp.com/)
 - [Rally](https://www.broadcom.com/products/software/value-stream-management/rally)
+- [Linear](https://linear.app/)
 
 ### Bug / Defect Tracking Software
 - [Bugzilla](https://www.bugzilla.org/)
