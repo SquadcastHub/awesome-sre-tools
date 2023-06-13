@@ -56,6 +56,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [GitHub Projects](https://github.com/features/project-management)
 - [GitLab Boards](https://docs.gitlab.com/ee/user/project/issue_board.html)
 - [Bitbucket Issues](https://bitbucket.org/product/features/issues)
+- [Linear](https://linear.app/)
 
 ### Bug / Defect Tracking Software
 - [Bugzilla](https://www.bugzilla.org/)
