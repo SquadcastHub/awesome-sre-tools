@@ -65,6 +65,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Zoho BugTracker](https://www.zoho.in/bugtracker/)
 - [Bugasura](https://bugasura.io)
 - [Mantis Bug Tracker](https://www.mantisbt.org/)
+- [Github Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues)
 
 ### Code Editors and IDE's
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
