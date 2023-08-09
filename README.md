@@ -249,7 +249,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Dynatrace](https://www.dynatrace.com/)
 - [Datadog](https://www.datadoghq.com/)
 - [Elastic APM](https://www.elastic.co/apm)
-
+- [Healthchecks.io](https://healthchecks.io)
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
