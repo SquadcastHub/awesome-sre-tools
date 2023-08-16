@@ -11,17 +11,17 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
   - [Project Management &amp; Issue Tracking Software](#project-management--issue-tracking-software)
   - [Bug / Defect Tracking Software](#bug--defect-tracking-software)
   - [Code Editors and IDE's](#code-editors-and-ides)
-- [Continous Testing](#continous-testing)
-- [Continous Integration](#continous-integration)
+- [Continuous Testing](#continuous-testing)
+- [Continuous Integration](#continuous-integration)
   - [Build](#build)
   - [Integration](#integration)
-- [Continous Delivery](#continous-delivery)
+- [Continuous Delivery](#continuous-delivery)
   - [Deployment](#deployment)
   - [Infrastructure orchestration](#infrastructure-orchestration)
   - [Container](#container)
   - [Container Registry](#container-registry)
   - [Container Orchestration](#container-orchestration)
-- [Continous Monitoring](#continous-monitoring)
+- [Continuous Monitoring](#continuous-monitoring)
 - [Incident Management / Incident Response / IT Alerting / On-Call](#incident-management--incident-response--it-alerting--on-call)
   - [IT Service Management](#it-service-management)
   - [Incident Communication](#incident-communication)
@@ -44,7 +44,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Taiga](https://taiga.io/)
 - [Wrike](https://www.wrike.com/)
 - [Asana](https://asana.com/)
-- [monday.com](https://monday.com/)
+- [Monday.com](https://monday.com/)
 - [Clickup](https://clickup.com/)
 - [Basecamp](https://basecamp.com/)
 - [Rally](https://www.broadcom.com/products/software/value-stream-management/rally)
@@ -67,7 +67,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Mantis Bug Tracker](https://www.mantisbt.org/)
 - [Github Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues)
 
-### Code Editors and IDE's
+### Code Editors and IDEs
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [Atom](https://atom.io/)
@@ -84,7 +84,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Eclipse Che](https://www.eclipse.org/che/)
 
-## Continous Testing
+## Continuous Testing
 - [Selenium](https://www.seleniumhq.org/)
 - [JUnit](https://junit.org/)
 - [TestNG](https://testng.org/doc/index.html)
@@ -106,7 +106,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Cypress](https://www.cypress.io/)
 - [TestRail](https://www.gurock.com/testrail/)
 
-## Continous Integration
+## Continuous Integration
 ### Build
 - [Ninja](https://ninja-build.org/)
 - [Meson](https://mesonbuild.com/)
@@ -149,7 +149,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [CodeClimate](https://www.codeclimate.com/)
 - [CodeFresh](https://codefresh.io/)
 - [Codeship](https://www.codeship.io/)
-- [Continousphp](https://continuousphp.com/)
+- [Continuousphp](https://continuousphp.com/)
 - [Drone](https://drone.io/)
 - [Hound CI](https://houndci.com/)
 - [Probo.CI](https://probo.ci/)
@@ -158,7 +158,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Go CD](https://www.gocd.org/)
 
 
-## Continous Delivery
+## Continuous Delivery
 ### Deployment
 - [AWS CodeDeploy](https://aws.amazon.com/codedeploy/)
 - [ElectricFlow](http://electric-cloud.com/products/electricflow/)
@@ -166,7 +166,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [IBM UrbanCode](http://www-03.ibm.com/software/products/en/ucdep)
 - [DeployBot](https://deploybot.com/)
 - [Shippable](https://app.shippable.com/)
-- [Codar Continous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
+- [Codar Continuous Delivery](https://www.microfocus.com/en-us/products/codar-continuous-deployment/overview)
 - [Wercker](https://app.wercker.com/)
 - [Humanitec](https://humanitec.com/)
 - [ArgoCD](https://argo-cd.readthedocs.io/en/stable/)
@@ -215,7 +215,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Apache Mesos](http://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
 
-## Continous Monitoring
+## Continuous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
 - [DebugBear](https://www.debugbear.com/)
 - [Prometheus](https://prometheus.io/)
