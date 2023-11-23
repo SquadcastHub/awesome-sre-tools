@@ -36,7 +36,6 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Mercurial](https://www.mercurial-scm.org/)
 - [Perforce Helix Core](https://www.perforce.com/products/helix-core/)
 - [Subversion (SVN)](https://subversion.apache.org/)
-- [DevHub (Gitea)](https://dev-hub.eu/)
 
 ### Project Management & Issue Tracking Software
 - [Jira](https://www.atlassian.com/software/jira)
