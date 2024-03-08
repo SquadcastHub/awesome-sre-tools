@@ -75,6 +75,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Vim](https://www.vim.org/)
+- [Neovim](https://neovim.io/)
 - [Eclipse](https://www.eclipse.org/downloads/)
 - [GNU Nano](https://www.nano-editor.org/)
 - [UltraEdit](https://www.ultraedit.com/)
