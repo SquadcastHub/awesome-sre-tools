@@ -107,6 +107,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Gatling](https://gatling.io/)
 - [Cypress](https://www.cypress.io/)
 - [TestRail](https://www.gurock.com/testrail/)
+- [Bencher](https://bencher.dev)
 
 ## Continuous Integration
 ### Build
