@@ -103,7 +103,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Apache jMeter](https://jmeter.apache.org/)
 - [Appium](http://appium.io/)
 - [steadybit](https://www.steadybit.com/)
-- [k6s](https://k6.io/)
+- [k6](https://k6.io/)
 - [Apache JMeter](https://jmeter.apache.org/)
 - [Gatling](https://gatling.io/)
 - [Cypress](https://www.cypress.io/)
