@@ -289,7 +289,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Moogsoft](https://www.moogsoft.com/)
 - [incident.io](https://incident.io/)
 - [Next9.ai](https://next9.ai/)
-
+- [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically using AI.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
