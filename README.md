@@ -194,6 +194,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Pulumi](https://www.pulumi.com/)
 - [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/)
 - [OPS](https://ops.city)
+- [Kratix](https://www.kratix.io/)
 
 ### Container
 - [Docker](https://www.docker.com/)
