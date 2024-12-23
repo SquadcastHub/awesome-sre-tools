@@ -269,7 +269,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [VictorOps](https://victorops.com/)
 - [OpsGenie](https://www.opsgenie.com/)
 - [AlertOps](https://alertops.com/)
-- [Blameless](https://www.blameless.com/)
+- ~[Blameless](https://www.blameless.com/)~ Now [FireHydrant](https://www.firehydrant.com)
 - [Jira Ops](https://www.atlassian.com/software/jira/ops)
 - [OnPage](https://www.onpage.com/)
 - [PagerTree](https://pagertree.com/)
