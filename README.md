@@ -262,6 +262,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for websites, APIs, and cron jobs, with integrated status pages.
 - [Streamdal](https://streamdal.com) - Code-Native Data Privacy - embed privacy controls in your application code to detect and monitor PII. [![Streamdal](https://img.shields.io/github/stars/streamdal/streamdal?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/streamdal/streamdal)
 - [Dash0](https://www.dash0.com/) - OpenTelemetry Native Observability, built on CNCF Open Standards such as PromQL, Perses and OTLP with full cost control. Supporting Metrics, Traces and Logs with full custom dashboarding and alerting capabilities.
+- [CICube](https://cicube.io/) - AI DevOps monitoring platform by monitoring your CI workflows, detect anomalies, and provide actionable fixes.
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
