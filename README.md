@@ -26,6 +26,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
   - [IT Service Management](#it-service-management)
   - [Incident Communication](#incident-communication)
 - [Internal Developer Portal](#internal-developer-portal)
+- [AI SRE Tools & SRE Copilots](#ai-sre-tools--sre-copilots)
 
 ## Development
 ### Source Code Management
@@ -323,6 +324,11 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Backstage Software Catalog](https://backstage.io/)
 - [OpsLevel](https://www.opslevel.com/)
 - [Cortex](https://www.cortex.io/)
+
+## AI SRE Tools & SRE Copilots
+- [Sherlocks.ai](https://www.sherlocks.ai)
+- [Resolve.ai](https://resolve.ai/)
+- [Deductive.ai](https://www.deductive.ai/)
 
 ## Stargazers over time
 
