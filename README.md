@@ -330,6 +330,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Sherlocks.ai](https://www.sherlocks.ai)
 - [Resolve.ai](https://resolve.ai/)
 - [Deductive.ai](https://www.deductive.ai/)
+- [IncidentFox](https://incidentfox.ai)
 
 ## Stargazers over time
 
