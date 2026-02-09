@@ -252,6 +252,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Thanos](https://thanos.io/)
 - [Mimir](https://grafana.com/oss/mimir/) 
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
+- [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
 - [Netdata](https://netdata.cloud)
@@ -300,6 +301,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically using AI.
 - [Merlinn](https://github.com/merlinn-co/merlinn) - Open-source AI on-call developer
 - [Calmo](https://getcalmo.com/) - Debug Production x10 faster with AI.
+- [NthLayer](https://github.com/rsionnach/nthlayer) - Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
@@ -316,6 +318,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Squadcast Statuspages](https://www.squadcast.com/statuspage)
 - [StatusPal](https://statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome-devops) - communicate incidents and maintenance effectively with a beautiful hosted status page.
 - [Hydrozen.io Statuspages](https://hydrozen.io)
+- [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts
 - [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
 - [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
 - [Cachet](https://cachethq.io/)
@@ -331,6 +334,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Resolve.ai](https://resolve.ai/)
 - [Deductive.ai](https://www.deductive.ai/)
 - [IncidentFox](https://incidentfox.ai)
+- [metoro.io](https://metoro.io/)
 
 ## Stargazers over time
 
