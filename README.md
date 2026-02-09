@@ -300,6 +300,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - Investigate Prometheus alerts, Jira/Pagerduty/Opsgenie tickets automatically using AI.
 - [Merlinn](https://github.com/merlinn-co/merlinn) - Open-source AI on-call developer
 - [Calmo](https://getcalmo.com/) - Debug Production x10 faster with AI.
+- [NthLayer](https://github.com/rsionnach/nthlayer) - Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
