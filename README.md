@@ -252,6 +252,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Thanos](https://thanos.io/)
 - [Mimir](https://grafana.com/oss/mimir/) 
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
+- [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
 - [Netdata](https://netdata.cloud)
@@ -317,6 +318,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Squadcast Statuspages](https://www.squadcast.com/statuspage)
 - [StatusPal](https://statuspal.io/?utm_source=github.com&utm_medium=referral&utm_campaign=awesome-devops) - communicate incidents and maintenance effectively with a beautiful hosted status page.
 - [Hydrozen.io Statuspages](https://hydrozen.io)
+- [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts
 - [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
 - [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
 - [Cachet](https://cachethq.io/)
