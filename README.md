@@ -336,6 +336,10 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [IncidentFox](https://incidentfox.ai)
 - [metoro.io](https://metoro.io/)
 
+## Related Lists
+
+- [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - Observability and performance testing tools and resources for performance engineering.
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/SquadcastHub/awesome-sre-tools.svg)](https://starchart.cc/SquadcastHub/awesome-sre-tools)
