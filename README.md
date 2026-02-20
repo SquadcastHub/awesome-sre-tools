@@ -335,6 +335,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Deductive.ai](https://www.deductive.ai/)
 - [IncidentFox](https://incidentfox.ai)
 - [metoro.io](https://metoro.io/)
+- [Agent SRE](https://github.com/imran-siddique/agent-sre) - AI-powered SRE toolkit for autonomous incident detection, root cause analysis, SLO management, capacity planning, and chaos engineering for AI agent fleets.
 
 ## Stargazers over time
 
