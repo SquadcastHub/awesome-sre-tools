@@ -241,6 +241,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager)
 - [NewRelic](https://newrelic.com/)
 - [Papertrail](https://papertrailapp.com/)
+- [PageGuard](https://pageguard.org) - Free all-in-one website health scanner. Core Web Vitals, SEO, WCAG 2.1 accessibility, and best practices. AI-generated action plan. No signup required.
 - [Pingdom](https://tools.pingdom.com/)
 - [ServerDensity](https://www.serverdensity.com/)
 - [Zabbix](https://www.zabbix.com/)
