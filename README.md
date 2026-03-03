@@ -267,6 +267,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [CICube](https://cicube.io/) - AI DevOps monitoring platform by monitoring your CI workflows, detect anomalies, and provide actionable fixes.
 - [Middleware](https://middleware.io) - A Full-Stack Cloud Observability Platform designed to empower developers and organizations to monitor, optimize, and streamline their applications and infrastructure in real-time.
 - [Shipfox](https://www.shipfox.io/) - Boost GitHub Actions speed by 2x and cut costs by up to 75%, with smarter caching, deep CI insights, and zero-config setup.
+- [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - AWS security auditing CLI that runs 17 checks across IAM, S3, EC2, VPC, and RDS with built-in remediation engine generating AWS CLI commands and Terraform snippets.
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
