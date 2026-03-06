@@ -291,6 +291,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [SLO exporter](https://github.com/seznam/slo-exporter)
 - [SLO Calculator](https://github.com/last9/slo-computer)
 - [Rootly](https://www.rootly.io)
+- [Rootly CLI](https://github.com/rootlyhq/rootly-cli) - Open-source CLI to manage Rootly incidents, alerts, services, teams, and on-call schedules from the terminal.
 - [Grafana OnCall](https://grafana.com/oss/oncall/)
 - [Keep - CLI for alerting](https://github.com/keephq/keep)
 - [Better Stack](https://betterstack.com/)
