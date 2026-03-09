@@ -246,6 +246,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Zabbix](https://www.zabbix.com/)
 - [InsightOps](https://www.rapid7.com/products/insightops/)
 - [AppSignal](https://appsignal.com)
+- [API Status Check](https://apistatuscheck.com) - Centralized dashboard tracking real-time status and outages for 1,000+ popular APIs and services (AWS, Stripe, GitHub, Twilio, etc.). Monitor third-party dependencies, get instant outage alerts, reduce MTTR.
 - [Grafana](https://grafana.com)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 - [Chaos Genius](https://www.chaosgenius.io/)
