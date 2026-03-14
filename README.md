@@ -267,6 +267,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [CICube](https://cicube.io/) - AI DevOps monitoring platform by monitoring your CI workflows, detect anomalies, and provide actionable fixes.
 - [Middleware](https://middleware.io) - A Full-Stack Cloud Observability Platform designed to empower developers and organizations to monitor, optimize, and streamline their applications and infrastructure in real-time.
 - [Shipfox](https://www.shipfox.io/) - Boost GitHub Actions speed by 2x and cut costs by up to 75%, with smarter caching, deep CI insights, and zero-config setup.
+- [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
@@ -334,6 +335,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Resolve.ai](https://resolve.ai/)
 - [Deductive.ai](https://www.deductive.ai/)
 - [IncidentFox](https://incidentfox.ai)
+- [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.
 - [metoro.io](https://metoro.io/)
 
 ## Stargazers over time
