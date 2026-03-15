@@ -335,7 +335,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Deductive.ai](https://www.deductive.ai/)
 - [IncidentFox](https://incidentfox.ai)
 - [metoro.io](https://metoro.io/)
-
+- [AgentWatch](https://github.com/nicofains1/agentwatch) - Multi-agent observability with cascade failure detection, heartbeat monitoring, and forensic replay.
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/SquadcastHub/awesome-sre-tools.svg)](https://starchart.cc/SquadcastHub/awesome-sre-tools)
