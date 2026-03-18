@@ -252,6 +252,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Grafana](https://grafana.com)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 - [Chaos Genius](https://www.chaosgenius.io/)
+- [Cloud Waste Scanner](https://cloud-waste-scanner.com) - Detects cloud waste and helps DevOps/platform teams identify quick cloud cost optimization opportunities.
 - [Thanos](https://thanos.io/)
 - [Mimir](https://grafana.com/oss/mimir/) 
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
