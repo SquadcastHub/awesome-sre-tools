@@ -240,18 +240,23 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) 
 - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager)
 - [NewRelic](https://newrelic.com/)
+- [ReleaseRun Vulnerability Scanner](https://releaserun.com/tools/vulnerability-scanner/)
 - [Papertrail](https://papertrailapp.com/)
+- [PageGuard](https://pageguard.org) - Free all-in-one website health scanner. Core Web Vitals, SEO, WCAG 2.1 accessibility, and best practices. AI-generated action plan. No signup required.
 - [Pingdom](https://tools.pingdom.com/)
 - [ServerDensity](https://www.serverdensity.com/)
 - [Zabbix](https://www.zabbix.com/)
 - [InsightOps](https://www.rapid7.com/products/insightops/)
 - [AppSignal](https://appsignal.com)
+- [API Status Check](https://apistatuscheck.com) - Centralized dashboard tracking real-time status and outages for 1,000+ popular APIs and services (AWS, Stripe, GitHub, Twilio, etc.). Monitor third-party dependencies, get instant outage alerts, reduce MTTR.
 - [Grafana](https://grafana.com)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 - [Chaos Genius](https://www.chaosgenius.io/)
 - [Thanos](https://thanos.io/)
 - [Mimir](https://grafana.com/oss/mimir/) 
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
+- [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool with email alerts
+- [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) - Open-source DNS propagation monitoring tool with global DNS server coverage
 - [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
@@ -268,6 +273,10 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Middleware](https://middleware.io) - A Full-Stack Cloud Observability Platform designed to empower developers and organizations to monitor, optimize, and streamline their applications and infrastructure in real-time.
 - [Shipfox](https://www.shipfox.io/) - Boost GitHub Actions speed by 2x and cut costs by up to 75%, with smarter caching, deep CI insights, and zero-config setup.
 - [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.
+- [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - AWS security auditing CLI that runs 17 checks across IAM, S3, EC2, VPC, and RDS with built-in remediation engine generating AWS CLI commands and Terraform snippets.
+- [FlareWarden](https://flarewarden.com/monitoring) - Uptime, content, and dependency monitoring with multi-region verification, status pages, and incident management.
+- [Phare](https://phare.io) - Shockingly good uptime monitoring, alerts, incident management, and status pages.
+- [API Status Check](https://apistatuscheck.com/) - Real-time status monitoring dashboard for 250+ developer APIs including AWS, Stripe, GitHub, and OpenAI. Free, no signup required.
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
@@ -292,6 +301,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [SLO exporter](https://github.com/seznam/slo-exporter)
 - [SLO Calculator](https://github.com/last9/slo-computer)
 - [Rootly](https://www.rootly.io)
+- [Rootly CLI](https://github.com/rootlyhq/rootly-cli) - Open-source CLI to manage Rootly incidents, alerts, services, teams, and on-call schedules from the terminal.
 - [Grafana OnCall](https://grafana.com/oss/oncall/)
 - [Keep - CLI for alerting](https://github.com/keephq/keep)
 - [Better Stack](https://betterstack.com/)
@@ -303,6 +313,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Merlinn](https://github.com/merlinn-co/merlinn) - Open-source AI on-call developer
 - [Calmo](https://getcalmo.com/) - Debug Production x10 faster with AI.
 - [NthLayer](https://github.com/rsionnach/nthlayer) - Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.
+- [Runframe](https://runframe.io) - Incident management platform with on-call scheduling, real-time collaboration, and automated escalations.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
@@ -334,8 +345,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Sherlocks.ai](https://www.sherlocks.ai)
 - [Resolve.ai](https://resolve.ai/)
 - [Deductive.ai](https://www.deductive.ai/)
-- [IncidentFox](https://incidentfox.ai)
 - [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.
+- [IncidentFox](https://github.com/incidentfox/incidentfox) (open source)
 - [metoro.io](https://metoro.io/)
 
 ## Stargazers over time
