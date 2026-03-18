@@ -252,6 +252,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Thanos](https://thanos.io/)
 - [Mimir](https://grafana.com/oss/mimir/) 
 - [Hydrozen.io](https://hydrozen.io) - Uptime monitoring & Statuspages
+- [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool with email alerts
+- [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) - Open-source DNS propagation monitoring tool with global DNS server coverage
 - [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
