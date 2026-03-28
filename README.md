@@ -265,6 +265,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt) - Brings GPT into production for application log error monitoring
 - [Dynatrace](https://www.dynatrace.com/)
 - [Datadog](https://www.datadoghq.com/)
+- [BillingWatch](https://github.com/rmbell09-lang/BillingWatch) - Self-hosted Stripe billing anomaly detector — monitors webhook event streams for charge failure spikes, revenue drops, duplicate charges, and webhook lag. Open-source, FastAPI + Python.
 - [Elastic APM](https://www.elastic.co/apm)
 - [Healthchecks.io](https://healthchecks.io)
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for websites, APIs, and cron jobs, with integrated status pages.
