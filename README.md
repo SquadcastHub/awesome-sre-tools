@@ -315,6 +315,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Calmo](https://getcalmo.com/) - Debug Production x10 faster with AI.
 - [NthLayer](https://github.com/rsionnach/nthlayer) - Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.
 - [Runframe](https://runframe.io) - Incident management platform with on-call scheduling, real-time collaboration, and automated escalations.
+- [Incidentary](https://incidentary.com) - Shared causal traces for incident response. Captures pre-alert causal chains across services and assembles them into a shared, replayable artifact before the war room starts—open-source SDKs.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
