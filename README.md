@@ -4,6 +4,7 @@
 
 A curated list of Site Reliability and Production Engineering tools - Maintained by [Raghu Chinnannan](https://twitter.com/RaghuChinnannan) and [Squadcast](https://www.squadcast.com/)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SRE automation including monitoring, alerting, incident response, and multi-agent infrastructure orchestration. MIT licensed.
 ## Contents
 
 - [Development](#development)
