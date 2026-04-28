@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/squadcasthub-awesome-sre-tools-badge.png)](https://mseep.ai/app/squadcasthub-awesome-sre-tools)
+
 # Awesome Site Reliability Engineering Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <!--lint ignore no-dead-urls--> 
