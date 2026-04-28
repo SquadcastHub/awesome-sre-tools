@@ -192,6 +192,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Spacelift](https://spacelift.io/)
 - [Selefra](https://www.selefra.io/)
 - [Scalr](https://www.scalr.com/)
+- [Stategraph](https://stategraph.com)
 - [Pulumi](https://www.pulumi.com/)
 - [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/)
 - [OPS](https://ops.city)
@@ -315,6 +316,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Calmo](https://getcalmo.com/) - Debug Production x10 faster with AI.
 - [NthLayer](https://github.com/rsionnach/nthlayer) - Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.
 - [Runframe](https://runframe.io) - Incident management platform with on-call scheduling, real-time collaboration, and automated escalations.
+- [Incidentary](https://incidentary.com) - Shared causal traces for incident response. Captures pre-alert causal chains across services and assembles them into a shared, replayable artifact before the war room starts—open-source SDKs.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
@@ -350,6 +352,11 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [IncidentFox](https://github.com/incidentfox/incidentfox) (open source)
 - [metoro.io](https://metoro.io/)
 - [Ops AI by Middleware](https://middleware.io/product/ops-ai/)
+- [tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) - MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.
+
+## Related Lists
+
+- [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - Observability and performance testing tools and resources for performance engineering.
 
 ## Stargazers over time
 
