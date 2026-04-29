@@ -179,6 +179,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Buddy Works](https://buddy.works/)
 - [werf](https://werf.io/)
 - [Google Cloud Build](https://cloud.google.com/build)
+- [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway.
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
@@ -192,6 +193,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Spacelift](https://spacelift.io/)
 - [Selefra](https://www.selefra.io/)
 - [Scalr](https://www.scalr.com/)
+- [Stategraph](https://stategraph.com)
 - [Pulumi](https://www.pulumi.com/)
 - [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/)
 - [OPS](https://ops.city)
@@ -268,6 +270,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Elastic APM](https://www.elastic.co/apm)
 - [Healthchecks.io](https://healthchecks.io)
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for websites, APIs, and cron jobs, with integrated status pages.
+- [Uptrack](https://uptrack.app) - Uptime monitoring with 30-second checks on free tier, consecutive-check alert confirmation to cut false positives, hosted status pages, and a built-in MCP server for AI agents.
 - [Streamdal](https://streamdal.com) - Code-Native Data Privacy - embed privacy controls in your application code to detect and monitor PII. [![Streamdal](https://img.shields.io/github/stars/streamdal/streamdal?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/streamdal/streamdal)
 - [Dash0](https://www.dash0.com/) - OpenTelemetry Native Observability, built on CNCF Open Standards such as PromQL, Perses and OTLP with full cost control. Supporting Metrics, Traces and Logs with full custom dashboarding and alerting capabilities.
 - [CICube](https://cicube.io/) - AI DevOps monitoring platform by monitoring your CI workflows, detect anomalies, and provide actionable fixes.
@@ -279,6 +282,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Phare](https://phare.io) - Shockingly good uptime monitoring, alerts, incident management, and status pages.
 - [API Status Check](https://apistatuscheck.com/) - Real-time status monitoring dashboard for 250+ developer APIs including AWS, Stripe, GitHub, and OpenAI. Free, no signup required.
 - [KubeStellar Console](https://github.com/kubestellar/console) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco). CNCF Sandbox project.
+- [Riftmap](https://riftmap.dev) - Cross-repo infrastructure dependency discovery and change impact analysis for multi-repo environments using Terraform, Docker, Helm, and more.
+- [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
 
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
@@ -316,6 +321,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Calmo](https://getcalmo.com/) - Debug Production x10 faster with AI.
 - [NthLayer](https://github.com/rsionnach/nthlayer) - Reliability Shift Left platform. Generate dashboards, alerts, SLOs from YAML. Verify metrics exist before deploy. Block deploys when error budget exhausted.
 - [Runframe](https://runframe.io) - Incident management platform with on-call scheduling, real-time collaboration, and automated escalations.
+- [Incidentary](https://incidentary.com) - Shared causal traces for incident response. Captures pre-alert causal chains across services and assembles them into a shared, replayable artifact before the war room starts—open-source SDKs.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
@@ -350,6 +356,12 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.
 - [IncidentFox](https://github.com/incidentfox/incidentfox) (open source)
 - [metoro.io](https://metoro.io/)
+- [Ops AI by Middleware](https://middleware.io/product/ops-ai/)
+- [tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) - MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.
+
+## Related Lists
+
+- [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - Observability and performance testing tools and resources for performance engineering.
 
 ## Stargazers over time
 
