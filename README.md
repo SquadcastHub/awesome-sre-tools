@@ -281,6 +281,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [FlareWarden](https://flarewarden.com/monitoring) - Uptime, content, and dependency monitoring with multi-region verification, status pages, and incident management.
 - [Phare](https://phare.io) - Shockingly good uptime monitoring, alerts, incident management, and status pages.
 - [API Status Check](https://apistatuscheck.com/) - Real-time status monitoring dashboard for 250+ developer APIs including AWS, Stripe, GitHub, and OpenAI. Free, no signup required.
+- [Apitally](https://apitally.io) - API monitoring, analytics, and request logging for REST APIs, with lightweight open-source SDKs for Python, Node.js, Go, .NET, and Java.
 - [KubeStellar Console](https://github.com/kubestellar/console) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco). CNCF Sandbox project.
 - [Riftmap](https://riftmap.dev) - Cross-repo infrastructure dependency discovery and change impact analysis for multi-repo environments using Terraform, Docker, Helm, and more.
 - [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
