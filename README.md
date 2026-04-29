@@ -179,6 +179,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Buddy Works](https://buddy.works/)
 - [werf](https://werf.io/)
 - [Google Cloud Build](https://cloud.google.com/build)
+- [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway.
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
