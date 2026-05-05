@@ -6,16 +6,6 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## Contents
 
-## OpenClaw Monitor
-
-| | |
-|---|---|
-| **Project** | [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) |
-| **Description** | Real-time AI agent monitoring dashboard — tracks Gateway status, sessions, token usage & trends |
-| **Stars** | ⭐ 1.3k+ |
-
-![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
-
 
 
 - [Development](#development)
@@ -299,6 +289,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Riftmap](https://riftmap.dev) - Cross-repo infrastructure dependency discovery and change impact analysis for multi-repo environments using Terraform, Docker, Helm, and more.
 - [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
