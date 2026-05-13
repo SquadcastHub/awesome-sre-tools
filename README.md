@@ -267,6 +267,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt) - Brings GPT into production for application log error monitoring
 - [Dynatrace](https://www.dynatrace.com/)
 - [Datadog](https://www.datadoghq.com/)
+- [DevHelm](https://devhelm.io) - Developer-first uptime monitoring with HTTP, DNS, TCP, ICMP, and heartbeat checks, dependency intelligence for 80+ providers, hosted status pages, incident management, and a full developer surface (CLI, SDKs, Terraform provider, MCP server).
 - [Elastic APM](https://www.elastic.co/apm)
 - [Healthchecks.io](https://healthchecks.io)
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for websites, APIs, and cron jobs, with integrated status pages.
