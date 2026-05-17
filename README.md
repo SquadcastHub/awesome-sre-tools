@@ -162,6 +162,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Solano CI](https://xebialabs.com/technology/solano-ci/)
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
+- [API Contract Guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) - Validate OpenAPI contracts in CI/CD pipelines to prevent breaking changes from reaching production.
 
 
 ## Continuous Delivery
@@ -180,6 +181,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [werf](https://werf.io/)
 - [Google Cloud Build](https://cloud.google.com/build)
 - [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway.
+- [DeployDiff](https://github.com/Coding-Dev-Tools/deploydiff) - Compare infrastructure deployments across environments to detect configuration drift and prevent inconsistencies before release.
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
@@ -290,6 +292,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 
+- [ConfigDrift](https://github.com/Coding-Dev-Tools/configdrift) - Open-source CLI to detect and track configuration drift across infrastructure environments, maintaining consistency and compliance.
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
 - [PagerDuty](https://www.pagerduty.com/)
@@ -365,6 +368,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) - MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.
 
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap Click/Typer CLI tools as MCP servers, making DevOps and SRE tools accessible to AI assistants like Claude Code and Cursor.
 ## Related Lists
 
 - [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - Observability and performance testing tools and resources for performance engineering.
