@@ -245,6 +245,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [ReleaseRun Vulnerability Scanner](https://releaserun.com/tools/vulnerability-scanner/)
 - [Papertrail](https://papertrailapp.com/)
 - [PageGuard](https://pageguard.org) - Free all-in-one website health scanner. Core Web Vitals, SEO, WCAG 2.1 accessibility, and best practices. AI-generated action plan. No signup required.
+- [ConfigDrift](https://github.com/Coding-Dev-Tools/configdrift) - Detect configuration drift across environments. Compares YAML, JSON, TOML, and .env files, flags drifting keys and compliance violations before they cause incidents.
 - [Pingdom](https://tools.pingdom.com/)
 - [ServerDensity](https://www.serverdensity.com/)
 - [Zabbix](https://www.zabbix.com/)
