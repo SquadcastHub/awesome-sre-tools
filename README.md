@@ -180,6 +180,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [werf](https://werf.io/)
 - [Google Cloud Build](https://cloud.google.com/build)
 - [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway.
+- [DeployDiff](https://github.com/Coding-Dev-Tools/deploydiff) - Preview infrastructure changes with human-readable diffs, cost impact estimation, and pre-generated rollback commands before deploying. Supports Terraform, CloudFormation, and Pulumi.
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
