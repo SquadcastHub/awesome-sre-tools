@@ -87,7 +87,6 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Eclipse Che](https://www.eclipse.org/che/)
 - [Bluefish](https://bluefish.openoffice.nl/index.html)
-- [CodeLobster](https://codelobster.com/)
 
 ## Continuous Testing
 - [Selenium](https://www.seleniumhq.org/)
