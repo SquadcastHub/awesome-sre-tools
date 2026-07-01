@@ -289,6 +289,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
+- [Drumbeats](https://drumbeats.io) - Cron, heartbeat, and HTTP uptime monitoring for background jobs and services, with concurrent-job (run_id) correlation, duration/hang alerts, LOG pings for mid-run progress, incident management, and status pages. One curl ping instruments a job; no agent or SDK. Free tier: 50 monitors, 200K Beats/mo, all notification channels.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
