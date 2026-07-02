@@ -364,7 +364,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Ops AI by Middleware](https://middleware.io/product/ops-ai/)
 - [tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) - MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.
-- [Cynative](https://github.com/cynative/cynative): Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, Kubernetes, GitHub and GitLab.
+- [Cynative](https://github.com/cynative/cynative) - Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, Kubernetes, GitHub and GitLab.
 
 ## Related Lists
 
