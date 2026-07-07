@@ -262,6 +262,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool with email alerts
 - [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) - Open-source DNS propagation monitoring tool with global DNS server coverage
 - [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts
+- [Prismix](https://prismix.dev) - Real-time status dashboard for 75+ AI services (OpenAI, Anthropic, Gemini, Mistral, etc.) with starring, email/webhook alerts, 30-day uptime history, and embeddable SVG badges.
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
 - [Netdata](https://netdata.cloud)
