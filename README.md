@@ -87,7 +87,6 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Eclipse Che](https://www.eclipse.org/che/)
 - [Bluefish](https://bluefish.openoffice.nl/index.html)
-- [CodeLobster](https://codelobster.com/)
 
 ## Continuous Testing
 - [Selenium](https://www.seleniumhq.org/)
@@ -111,6 +110,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Cypress](https://www.cypress.io/)
 - [TestRail](https://www.gurock.com/testrail/)
 - [Bencher](https://bencher.dev)
+- [flakybin](https://github.com/mikluko/flakybin)
 
 ## Continuous Integration
 ### Build
@@ -229,6 +229,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 ## Continuous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
 - [DebugBear](https://www.debugbear.com/)
+- [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking with CSV, Excel, PDF, and JSON exports.
 - [Prometheus](https://prometheus.io/)
 - [StackDriver](https://cloud.google.com/stackdriver/)
 - [Sensu](https://sensu.io/)
@@ -290,6 +291,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 - [Faultline](https://github.com/faultline-cli/faultline) - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
+- [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, broken links, SSL certificates, and DNS, with hosted status pages.
+- [Yorker](https://yorkermonitoring.com) - OpenTelemetry-native synthetic monitoring with HTTP and Playwright browser checks, monitoring-as-code via YAML and CLI, and enriched OTLP export to any OTel backend.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
@@ -297,6 +300,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [VictorOps](https://victorops.com/)
 - [OpsGenie](https://www.opsgenie.com/)
 - [AlertOps](https://alertops.com/)
+- [ITOC360](https://itoc360.com)
 - ~[Blameless](https://www.blameless.com/)~ Now [FireHydrant](https://www.firehydrant.com)
 - [Jira Ops](https://www.atlassian.com/software/jira/ops)
 - [OnPage](https://www.onpage.com/)
@@ -365,6 +369,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Ops AI by Middleware](https://middleware.io/product/ops-ai/)
 - [tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) - MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.
+- [NudgeBee](https://nudgebee.com) - Unified AI agentic platform for cloud ops, offering AI SRE, AI FinOps, AI Kubernetes Ops, and AI CloudOps assistants that automate alert triage, root-cause analysis, and cost optimization.
+- [Hyground](https://hyground.ai) - Self-hosted AI SRE agent that goes beyond on-call incident resolution.
 
 ## Related Lists
 
