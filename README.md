@@ -87,7 +87,6 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Eclipse Che](https://www.eclipse.org/che/)
 - [Bluefish](https://bluefish.openoffice.nl/index.html)
-- [CodeLobster](https://codelobster.com/)
 
 ## Continuous Testing
 - [Selenium](https://www.seleniumhq.org/)
@@ -111,6 +110,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Cypress](https://www.cypress.io/)
 - [TestRail](https://www.gurock.com/testrail/)
 - [Bencher](https://bencher.dev)
+- [flakybin](https://github.com/mikluko/flakybin)
 
 ## Continuous Integration
 ### Build
@@ -229,6 +229,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 ## Continuous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
 - [DebugBear](https://www.debugbear.com/)
+- [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking with CSV, Excel, PDF, and JSON exports.
 - [Prometheus](https://prometheus.io/)
 - [StackDriver](https://cloud.google.com/stackdriver/)
 - [Sensu](https://sensu.io/)
@@ -261,6 +262,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [SSL Certificate Monitor](https://github.com/brancogao/ssl-certificate-monitor) - Open-source SSL/TLS certificate expiry monitoring tool with email alerts
 - [DNS Propagation Checker](https://github.com/brancogao/dns-propagation-checker) - Open-source DNS propagation monitoring tool with global DNS server coverage
 - [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with Telegram alerts
+- [Prismix](https://prismix.dev) - Real-time status dashboard for 75+ AI services (OpenAI, Anthropic, Gemini, Mistral, etc.) with starring, email/webhook alerts, 30-day uptime history, and embeddable SVG badges.
 - [Steampipe.io](https://steampipe.io) - Universal SQL interface to any cloud API
 - [Better Stack](https://betterstack.com/)
 - [Netdata](https://netdata.cloud)
@@ -289,6 +291,12 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
+- [Drumbeats](https://drumbeats.io) - Cron, heartbeat, and HTTP uptime monitoring for background jobs and services, with concurrent-job (run_id) correlation, duration/hang alerts, LOG pings for mid-run progress, incident management, and status pages. One curl ping instruments a job; no agent or SDK. Free tier: 50 monitors, 200K Beats/mo, all notification channels.
+- [OpenChainBench](https://openchainbench.com) - Continuous monitoring of blockchain RPC providers, bridges and oracles. Multi-region Prometheus probes of latency, tx-landing success and finality with public dashboards and open methodology.
+- [Respan](https://www.respan.ai/ai-gateway) - Observability platform for LLM and AI agent applications, with tracing, evals, prompt management, and a gateway across 250+ models.
+- [Faultline](https://github.com/faultline-cli/faultline) - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
+- [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, broken links, SSL certificates, and DNS, with hosted status pages.
+- [Yorker](https://yorkermonitoring.com) - OpenTelemetry-native synthetic monitoring with HTTP and Playwright browser checks, monitoring-as-code via YAML and CLI, and enriched OTLP export to any OTel backend.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
@@ -296,6 +304,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [VictorOps](https://victorops.com/)
 - [OpsGenie](https://www.opsgenie.com/)
 - [AlertOps](https://alertops.com/)
+- [ITOC360](https://itoc360.com)
 - ~[Blameless](https://www.blameless.com/)~ Now [FireHydrant](https://www.firehydrant.com)
 - [Jira Ops](https://www.atlassian.com/software/jira/ops)
 - [OnPage](https://www.onpage.com/)
@@ -365,6 +374,12 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) - MCP server with 52 tools for managing Tailscale tailnets from AI assistants like Claude Code and Cursor.
 - [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes management console with MCP server (kc-agent) for AI-assisted cluster operations, pod inspection, deployment management, and real-time observability across distributed environments.
 - [Cynative](https://github.com/cynative/cynative) - Deep research agent for your infra - sandboxed, read-only, covers AWS, GCP, Azure, Kubernetes, GitHub and GitLab.
+- [Aurora](https://github.com/Arvo-AI/aurora) - Open source (Apache 2.0) AI SRE agent that autonomously investigates incidents and performs root cause analysis across AWS, Azure, GCP, and Kubernetes. Self-hosted via Docker Compose or Helm, works with major LLM providers or local models via Ollama.
+- [Anyshift](https://www.anyshift.io/) - AI SRE built on a versioned resource graph of your infrastructure, for root cause analysis and predicting the impact of changes before they ship.
+- [Radar](https://github.com/skyhook-io/radar) - Open source Kubernetes visibility tool with a built-in MCP server for AI-assisted cluster operations — topology, service traffic, events, logs, and a 31-check best-practices audit.
+- [KnoxOps](https://knoxops.app/?invite_token=GITHUB26) - AI-native ops agent that gives agents production-safe execution with human review and a built-in knowledge graph.
+- [NudgeBee](https://nudgebee.com) - Unified AI agentic platform for cloud ops, offering AI SRE, AI FinOps, AI Kubernetes Ops, and AI CloudOps assistants that automate alert triage, root-cause analysis, and cost optimization.
+- [Hyground](https://hyground.ai) - Self-hosted AI SRE agent that goes beyond on-call incident resolution.
 
 ## Related Lists
 
