@@ -228,6 +228,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## Continuous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
+- [Nuberio Audit](https://www.nuberio.com/audit) - Free, read-only AWS account scan for missing/noisy CloudWatch alarms, GuardDuty/Security Hub findings, and AWS Config compliance gaps.
 - [DebugBear](https://www.debugbear.com/)
 - [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking with CSV, Excel, PDF, and JSON exports.
 - [Prometheus](https://prometheus.io/)
