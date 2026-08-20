@@ -381,6 +381,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [KnoxOps](https://knoxops.app/?invite_token=GITHUB26) - AI-native ops agent that gives agents production-safe execution with human review and a built-in knowledge graph.
 - [NudgeBee](https://nudgebee.com) - Unified AI agentic platform for cloud ops, offering AI SRE, AI FinOps, AI Kubernetes Ops, and AI CloudOps assistants that automate alert triage, root-cause analysis, and cost optimization.
 - [Hyground](https://hyground.ai) - Self-hosted AI SRE agent that goes beyond on-call incident resolution.
+- [heliograph](https://github.com/dbhq-uk/heliograph-skill) (open source) - Agent skill for debugging hosts you have no access to, for air-gapped, client-owned and change-controlled estates. Diagnostic steps go out over a private git repo, an on-site operator or an unattended runner executes them, and the logs come back the same way with every line timestamped in UTC.
 
 ## Related Lists
 
