@@ -357,6 +357,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
 - [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
 - [Cachet](https://cachethq.io/)
+- [Pharos](https://pharos.solutionmax.net) - Self-hosted status page with built-in HTTP, TCP and heartbeat checks, e-mail subscribers and a Cachet 2.x-compatible API.
 
 ## Internal Developer Portal
 - [Port](https://www.getport.io/)
