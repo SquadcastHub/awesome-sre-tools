@@ -337,6 +337,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Runframe](https://runframe.io) - Incident management platform with on-call scheduling, real-time collaboration, and automated escalations.
 - [Incidentary](https://incidentary.com) - Shared causal traces for incident response. Captures pre-alert causal chains across services and assembles them into a shared, replayable artifact before the war room starts—open-source SDKs.
 - [Regen](https://github.com/FluidifyAI/Regen) - Open-source, self-hosted incident management with alert ingestion, on-call scheduling, escalation policies, AI-powered post-mortems, and Slack/Teams integration. AGPLv3 — self-hosted alternative to PagerDuty and Grafana OnCall.
+- [OpenRunbook](https://github.com/edgex11/OpenRunbook) - Open-source DevOps question answering over a graph database. Ask an on-call question in plain English, get triage commands in order, what to look for in each output, causes and fixes. No LLM. MIT.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
