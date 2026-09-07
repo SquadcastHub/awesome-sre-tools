@@ -381,6 +381,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [KnoxOps](https://knoxops.app/?invite_token=GITHUB26) - AI-native ops agent that gives agents production-safe execution with human review and a built-in knowledge graph.
 - [NudgeBee](https://nudgebee.com) - Unified AI agentic platform for cloud ops, offering AI SRE, AI FinOps, AI Kubernetes Ops, and AI CloudOps assistants that automate alert triage, root-cause analysis, and cost optimization.
 - [Hyground](https://hyground.ai) - Self-hosted AI SRE agent that goes beyond on-call incident resolution.
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. Each task freezes the protected target SHA and creates a dedicated branch/worktree behind typed task, validation, merge, and release-readiness boundaries; the merge queue owns risk-based review, and workflow runs retain declared receipt hashes and terminal manifests. MIT, on npm as @yylo/cli; orchestrates Pi and Codex subagents.
 
 ## Related Lists
 
