@@ -298,6 +298,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Faultline](https://github.com/faultline-cli/faultline) - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, broken links, SSL certificates, and DNS, with hosted status pages.
 - [Yorker](https://yorkermonitoring.com) - OpenTelemetry-native synthetic monitoring with HTTP and Playwright browser checks, monitoring-as-code via YAML and CLI, and enriched OTLP export to any OTel backend.
+- [OpsResolve Burn Rate](https://www.opsresolve.com/burn-rate) - In-browser SLO error-budget calculator. Computes remaining budget for a target and window, generates multiwindow burn-rate alert rules (14.4x/6x/1x) for Prometheus and Datadog, and shows when each alert fires at a given sustained error rate. Runs client-side, no account.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
