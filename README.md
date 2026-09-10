@@ -385,6 +385,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 ## Related Lists
 
 - [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - Observability and performance testing tools and resources for performance engineering.
+- [Wyrcan Engineering Roadmap](https://github.com/Wyrcan-io/roadmap) - Text-first 12-stage curriculum covering systems, Linux, SRE observability, failure testing, and incident postmortems.
 
 ## Stargazers over time
 
