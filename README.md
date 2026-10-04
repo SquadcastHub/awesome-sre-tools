@@ -298,6 +298,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Faultline](https://github.com/faultline-cli/faultline) - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, broken links, SSL certificates, and DNS, with hosted status pages.
 - [Yorker](https://yorkermonitoring.com) - OpenTelemetry-native synthetic monitoring with HTTP and Playwright browser checks, monitoring-as-code via YAML and CLI, and enriched OTLP export to any OTel backend.
+- [RealUptime Monitor](https://realuptime.io/monitor) - Uptime, heartbeat/cron and SSL monitoring from multiple regions, with a free plan of 10 monitors at 60-second checks.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
@@ -357,6 +358,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
 - [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
 - [Cachet](https://cachethq.io/)
+- [RealUptime Status](https://realuptime.io/status) - Hosted status pages, with one status page on the free plan.
 
 ## Internal Developer Portal
 - [Port](https://www.getport.io/)
