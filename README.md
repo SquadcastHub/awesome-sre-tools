@@ -228,6 +228,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 
 ## Continuous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
+- [Nuberio Audit](https://www.nuberio.com/audit) - Free, read-only AWS account scan for missing/noisy CloudWatch alarms, GuardDuty/Security Hub findings, and AWS Config compliance gaps.
 - [DebugBear](https://www.debugbear.com/)
 - [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking with CSV, Excel, PDF, and JSON exports.
 - [Prometheus](https://prometheus.io/)
@@ -290,6 +291,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Riftmap](https://riftmap.dev) - Cross-repo infrastructure dependency discovery and change impact analysis for multi-repo environments using Terraform, Docker, Helm, and more.
 - [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.
+- [Prismix](https://prismix.dev) - Real-time status monitoring and incident tracking for 75+ AI services (OpenAI, Anthropic, Google Gemini, Cursor, Groq). Free REST API, email/webhook alerts, 30-day uptime history.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 - [sunwatch](https://sunwatch.sunfamily.xyz/) - Crypto-paid uptime monitoring for side projects. Pay per monitor with USDC on Base; webhook alerts on down/up state changes.
 - [Drumbeats](https://drumbeats.io) - Cron, heartbeat, and HTTP uptime monitoring for background jobs and services, with concurrent-job (run_id) correlation, duration/hang alerts, LOG pings for mid-run progress, incident management, and status pages. One curl ping instruments a job; no agent or SDK. Free tier: 50 monitors, 200K Beats/mo, all notification channels.
@@ -298,6 +300,10 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Faultline](https://github.com/faultline-cli/faultline) - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, broken links, SSL certificates, and DNS, with hosted status pages.
 - [Yorker](https://yorkermonitoring.com) - OpenTelemetry-native synthetic monitoring with HTTP and Playwright browser checks, monitoring-as-code via YAML and CLI, and enriched OTLP export to any OTel backend.
+- [Hyperping](https://hyperping.com) - Uptime, API, cron and server monitoring from 18 locations, with Playwright browser checks and hosted status pages.
+- [ReqKey](https://www.reqkey.com) - API key authentication, usage credits, rate limiting, and request analytics for your own APIs, via a single verify call from your middleware rather than a proxy or gateway. SDKs for Python, Node.js, Go, Rust, PHP, .NET, and Java.
+- [Screpy](https://screpy.com/) - Monitors website availability, page speed, and Core Web Vitals alongside technical SEO checks.
+- [Rasptele](https://github.com/maddhruv/rasptele) - Open-source monitoring and control bot for Raspberry Pi Docker servers, with host and container health checks, stateful Telegram alerts, and allowlisted container restarts.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
@@ -337,6 +343,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Runframe](https://runframe.io) - Incident management platform with on-call scheduling, real-time collaboration, and automated escalations.
 - [Incidentary](https://incidentary.com) - Shared causal traces for incident response. Captures pre-alert causal chains across services and assembles them into a shared, replayable artifact before the war room starts—open-source SDKs.
 - [Regen](https://github.com/FluidifyAI/Regen) - Open-source, self-hosted incident management with alert ingestion, on-call scheduling, escalation policies, AI-powered post-mortems, and Slack/Teams integration. AGPLv3 — self-hosted alternative to PagerDuty and Grafana OnCall.
+- [Hyperping](https://hyperping.com) - On-call schedules, escalation policies and alerting via SMS, Slack, Microsoft Teams and webhooks, with status page incident updates.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
@@ -369,6 +376,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Resolve.ai](https://resolve.ai/)
 - [Deductive.ai](https://www.deductive.ai/)
 - [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA APIs and host kernel events to build causal chains explaining GPU latency. Includes MCP server for AI-assisted incident investigation.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local
 - [IncidentFox](https://github.com/incidentfox/incidentfox) (open source)
 - [metoro.io](https://metoro.io/)
 - [Ops AI by Middleware](https://middleware.io/product/ops-ai/)
@@ -382,6 +390,10 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [NudgeBee](https://nudgebee.com) - Unified AI agentic platform for cloud ops, offering AI SRE, AI FinOps, AI Kubernetes Ops, and AI CloudOps assistants that automate alert triage, root-cause analysis, and cost optimization.
 - [Hyground](https://hyground.ai) - Self-hosted AI SRE agent that goes beyond on-call incident resolution.
 - [Aiden for SRE](https://stackgen.com/product/aiden-for-sre) - Aiden that acts autonomously on recurring incidents and works complex ones alongside your team through to resolution — policy-bound and fully auditable.
+- [OpenSRE (opensre.in)](https://github.com/swapnildahiphale/OpenSRE) - Self-hosted AI SRE platform for incident investigation with episodic memory, a Neo4j knowledge graph, Web UI, Slack, and Teams.
+- [Aient AI](https://aient.ai) - OpenTelemetry-native AI SRE agent that ingests logs, metrics, and traces, groups errors into problems, investigates root cause, and opens a GitHub pull request with a fix, then monitors production telemetry for recurrence. Integrates with GitHub, Slack, and Linear, and exposes a hosted MCP server. ([docs](https://docs.aient.ai))
+
+- [Chronicle](https://github.com/shlokkokk/Chronicle) - AI-native incident response and operational memory platform featuring alert deduplication, multi-source ingestion, host telemetry, semantic runbook and historical incident retrieval, SLA automation, and AI-assisted root cause analysis.
 
 ## Related Lists
 
