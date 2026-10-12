@@ -297,6 +297,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Riftmap](https://riftmap.dev) - Cross-repo infrastructure dependency discovery and change impact analysis for multi-repo environments using Terraform, Docker, Helm, and more.
 - [Oack](https://oack.io) - HTTP monitoring with TCP kernel telemetry, 6-phase latency breakdown, Server-Timing header capture, Cloudflare CDN enrichment, and built-in incident management with on-call scheduling.
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw agents. Track Gateway status, sessions, token usage & trends.
+- [Seitendiff Watcher](https://github.com/peppe1337/seitendiff) - GitHub Actions template that watches a CSS-selected fragment of a public page and opens an issue in a repository you own when that fragment changes. No server and no account elsewhere. MIT.
 - [Prismix](https://prismix.dev) - Real-time status monitoring and incident tracking for 75+ AI services (OpenAI, Anthropic, Google Gemini, Cursor, Groq). Free REST API, email/webhook alerts, 30-day uptime history.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents. Track cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, and Cursor exports.
 - [sunwatch](https://sunwatch.sunfamily.xyz/) - Crypto-paid uptime monitoring for side projects. Pay per monitor with USDC on Base; webhook alerts on down/up state changes.
