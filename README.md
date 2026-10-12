@@ -384,8 +384,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Atlassian Statuspages](https://www.atlassian.com/software/statuspage)
 - [Instatus Statuspages](https://instatus.com) - Quick and beautiful status page.
 - [Cachet](https://cachethq.io/)
+- [InBrief](https://inbrief.sh) - Hosted status pages with HTTP, TCP and DNS monitors, subscriber updates by email, Slack, Discord, Telegram, Microsoft Teams and RSS, custom domains, multilingual pages, maintenance mode, and per-feature pricing instead of fixed tiers.
 - [RealUptime Status](https://realuptime.io/status) - Hosted status pages, with one status page on the free plan.
-
 - [NextReset](https://nextreset.ai/) - Independent AI service incident timeline with official source links and separate Codex reset history.
 
 
