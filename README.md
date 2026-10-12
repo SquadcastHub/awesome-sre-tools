@@ -386,6 +386,9 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Cachet](https://cachethq.io/)
 - [RealUptime Status](https://realuptime.io/status) - Hosted status pages, with one status page on the free plan.
 
+- [NextReset](https://nextreset.ai/) - Independent AI service incident timeline with official source links and separate Codex reset history.
+
+
 ## Internal Developer Portal
 - [Port](https://www.getport.io/)
 - [Backstage Software Catalog](https://backstage.io/)
