@@ -162,6 +162,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Solano CI](https://xebialabs.com/technology/solano-ci/)
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
+- [CI Health Audit](https://github.com/sdxiaomage/ci-health-audit) - Zero-dependency GitHub Actions and CLI static audit for workflow security and reliability risks, with Markdown/JSON output and configurable severity gates.
 
 
 ## Continuous Delivery
