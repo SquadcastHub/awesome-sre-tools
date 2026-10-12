@@ -253,7 +253,6 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Zabbix](https://www.zabbix.com/)
 - [InsightOps](https://www.rapid7.com/products/insightops/)
 - [AppSignal](https://appsignal.com)
-- [API Status Check](https://apistatuscheck.com) - Centralized dashboard tracking real-time status and outages for 1,000+ popular APIs and services (AWS, Stripe, GitHub, Twilio, etc.). Monitor third-party dependencies, get instant outage alerts, reduce MTTR.
 - [Grafana](https://grafana.com)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/)
 - [Chaos Genius](https://www.chaosgenius.io/)
@@ -285,7 +284,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [cloud-audit](https://github.com/gebalamariusz/cloud-audit) - AWS security auditing CLI that runs 17 checks across IAM, S3, EC2, VPC, and RDS with built-in remediation engine generating AWS CLI commands and Terraform snippets.
 - [FlareWarden](https://flarewarden.com/monitoring) - Uptime, content, and dependency monitoring with multi-region verification, status pages, and incident management.
 - [Phare](https://phare.io) - Shockingly good uptime monitoring, alerts, incident management, and status pages.
-- [API Status Check](https://apistatuscheck.com/) - Real-time status monitoring dashboard for 250+ developer APIs including AWS, Stripe, GitHub, and OpenAI. Free, no signup required.
+- [API Status Check](https://apistatuscheck.com/) - Aggregated status dashboard for 285 developer APIs and services across 29 categories, including AWS, Stripe, GitHub, and OpenAI.
 - [LynxDB](https://github.com/lynxbase/lynxdb) - Lightweight columnar log analytics database for SRE workflows, with a pipe-style query language inspired by SPL for investigating production logs.
 - [KubeStellar Console](https://console.kubestellar.io) - Open-source multi-cluster Kubernetes dashboard with AI-powered operations, MCP server bridging kubeconfig to LLM agents, and real-time observability across edge and cloud clusters. CNCF Sandbox. [![KubeStellar Console](https://img.shields.io/github/stars/kubestellar/console?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/kubestellar/console)
 - [Apitally](https://apitally.io) - API monitoring, analytics, and request logging for REST APIs, with lightweight open-source SDKs for Python, Node.js, Go, .NET, and Java.
