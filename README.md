@@ -301,6 +301,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Faultline](https://github.com/faultline-cli/faultline) - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, broken links, SSL certificates, and DNS, with hosted status pages.
 - [Yorker](https://yorkermonitoring.com) - OpenTelemetry-native synthetic monitoring with HTTP and Playwright browser checks, monitoring-as-code via YAML and CLI, and enriched OTLP export to any OTel backend.
+- [gghstats](https://github.com/hrodrig/gghstats) - Self-hosted GitHub traffic stats beyond the 14-day API window (SQLite dashboard + Head-to-Head compare).
 - [Manifest API Bot](https://manifest.build/api-bot/) - GitHub App that checks the third-party APIs your code calls for changes every day and opens a pull request with the code fix when a change affects your code.
 - [SolidPing](https://solidping.io) - Open-source uptime monitoring with 40 check types, multi-region workers, private agents, status pages, incidents and on-call escalation. Self-hosted single binary (AGPL-3.0) or hosted, with a built-in MCP server.
 - [RealUptime Monitor](https://realuptime.io/monitor) - Uptime, heartbeat/cron and SSL monitoring from multiple regions, with a free plan of 10 monitors at 60-second checks.
