@@ -113,6 +113,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [TestRail](https://www.gurock.com/testrail/)
 - [Bencher](https://bencher.dev)
 - [flakybin](https://github.com/mikluko/flakybin)
+- [Agent QA](https://github.com/vostride/agent-qa)
 - [Retry Jitter Lab](https://github.com/KRISHNAMMurarka/retry-jitter-lab) - Experimental Python simulator for comparing retry backoff and jitter policies during a modeled outage and recovery.
 - [Keploy](https://keploy.io/)
 
