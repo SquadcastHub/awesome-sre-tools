@@ -300,6 +300,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Faultline](https://github.com/faultline-cli/faultline) - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, broken links, SSL certificates, and DNS, with hosted status pages.
 - [Yorker](https://yorkermonitoring.com) - OpenTelemetry-native synthetic monitoring with HTTP and Playwright browser checks, monitoring-as-code via YAML and CLI, and enriched OTLP export to any OTel backend.
+- [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts.
 - [Status Harbor](https://www.statusharbor.io) - Uptime, SSL, DNS and cron checks with host and Kubernetes cluster metrics from a single agent, private-network monitoring over outbound HTTPS, chat alerts and hosted status pages.
 - [MB3R Stack](https://github.com/MB3R-Lab/mb3r-stack) - Open-source model-based resilience toolchain using telemetry-driven topology discovery and virtual failure simulation for continuous resilience assessment and pre-release risk analysis.
 - [OutageDeck](https://outagedeck.com) - Tracks vendor-published status, incidents, and observed uptime for cloud and SaaS vendors from their official feeds, with alerts, a JSON API, CLI, remote MCP server, and GitHub Action.
