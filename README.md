@@ -307,6 +307,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Faultline](https://github.com/faultline-cli/faultline) - Deterministic CI failure analysis CLI that classifies build logs into explainable failure types with evidence and fix steps.
 - [Oh Dear](https://ohdear.app) - Monitoring for uptime, performance, broken links, SSL certificates, and DNS, with hosted status pages.
 - [Yorker](https://yorkermonitoring.com) - OpenTelemetry-native synthetic monitoring with HTTP and Playwright browser checks, monitoring-as-code via YAML and CLI, and enriched OTLP export to any OTel backend.
+- [CronAlive](https://cronalive.com) - Heartbeat monitoring for cron jobs, HTTP uptime checks with multi-region confirmation, and TLS certificate expiry alerts. Free tier with 10 checks.
 - [Merlonix](https://merlonix.com) - SSL, DNS, and uptime monitoring for agencies, with per-client white-label hosted status pages, alert routing, and a built-in remote MCP server for AI agents.
 - [OpsCanopy](https://opscanopy.com) - Browser-based testers for Prometheus relabel_configs, Alertmanager routing and Loki alert rules; runs client-side with no upload.
 - [agent-watch](https://github.com/soul-sol/agent-watch) - POSIX shell scripts that classify background coding-agent jobs as RUNNING, DONE, FAILED, or STALL and preflight transport versus authentication failures.
