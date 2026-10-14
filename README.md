@@ -168,6 +168,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
 - [CI Health Audit](https://github.com/sdxiaomage/ci-health-audit) - Zero-dependency GitHub Actions and CLI static audit for workflow security and reliability risks, with Markdown/JSON output and configurable severity gates.
+- [Latchkey](https://latchkey.dev) - Self-healing GitHub Actions runners that repair transient failures mid-run, with a CLI and MCP server so coding agents can run, read and fix CI.
 
 
 ## Continuous Delivery
