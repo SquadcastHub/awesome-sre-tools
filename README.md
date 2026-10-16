@@ -116,6 +116,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Agent QA](https://github.com/vostride/agent-qa)
 - [Retry Jitter Lab](https://github.com/KRISHNAMMurarka/retry-jitter-lab) - Experimental Python simulator for comparing retry backoff and jitter policies during a modeled outage and recovery.
 - [Keploy](https://keploy.io/)
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - Single-file Bash script that benchmarks a Linux VPS in about a minute: sysbench CPU and memory throughput plus fio random 4k read/write IOPS.
 
 ## Continuous Integration
 ### Build
