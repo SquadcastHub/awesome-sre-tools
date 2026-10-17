@@ -329,6 +329,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [ReqKey](https://www.reqkey.com) - API key authentication, usage credits, rate limiting, and request analytics for your own APIs, via a single verify call from your middleware rather than a proxy or gateway. SDKs for Python, Node.js, Go, Rust, PHP, .NET, and Java.
 - [Screpy](https://screpy.com/) - Monitors website availability, page speed, and Core Web Vitals alongside technical SEO checks.
 - [Rasptele](https://github.com/maddhruv/rasptele) - Open-source monitoring and control bot for Raspberry Pi Docker servers, with host and container health checks, stateful Telegram alerts, and allowlisted container restarts.
+- [Verceltics](https://verceltics.com) - Open-source iPhone, iPad and Android app for checking deployments, DNS, uptime and site analytics across 27 providers, including Vercel, Cloudflare, Better Stack and UptimeRobot.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
