@@ -435,6 +435,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Aient AI](https://aient.ai) - OpenTelemetry-native AI SRE agent that ingests logs, metrics, and traces, groups errors into problems, investigates root cause, and opens a GitHub pull request with a fix, then monitors production telemetry for recurrence. Integrates with GitHub, Slack, and Linear, and exposes a hosted MCP server. ([docs](https://docs.aient.ai))
 
 - [Chronicle](https://github.com/shlokkokk/Chronicle) - AI-native incident response and operational memory platform featuring alert deduplication, multi-source ingestion, host telemetry, semantic runbook and historical incident retrieval, SLA automation, and AI-assisted root cause analysis.
+- [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor) (open source) - Read-only shell script, with a stdio MCP server, that checks the launchd, cron or systemd setup and trace files of a scheduled AI agent run (e.g. nightly `claude -p`) against 30 known ways of stopping silently, each answered exposed, guarded or undecidable with its evidence.
 
 ## Related Lists
 
