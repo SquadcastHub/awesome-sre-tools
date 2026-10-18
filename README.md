@@ -384,6 +384,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [SysAid](https://www.sysaid.com/it-service-management-software)
 - [ManageEngine Servicedesk plus](https://www.manageengine.com/products/service-desk/)
 - [Zendesk](https://www.zendesk.com/)
+- [SLA Credit Calculator](https://sla.2jagency.com/) - Free browser-based calculator for the service credit owed when an SLA is missed, with per-breach or tiered rules, excluded cycles and a credit cap.
 
 ### Incident Communication
 - [Squadcast Statuspages](https://www.squadcast.com/statuspage)
