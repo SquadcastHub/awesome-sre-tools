@@ -168,6 +168,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
 - [CI Health Audit](https://github.com/sdxiaomage/ci-health-audit) - Zero-dependency GitHub Actions and CLI static audit for workflow security and reliability risks, with Markdown/JSON output and configurable severity gates.
+- [Sengi](https://sengi.run/?utm_source=awesome-sre-tools&utm_medium=listing&utm_campaign=launch-2026-10) - GitHub Actions runners on 5 GHz bare-metal AMD Ryzen 9 7950X3D with local NVMe; up to 74% less per build than GitHub's runners, from $0.003/min. One-line `runs-on` switch.
 
 
 ## Continuous Delivery
