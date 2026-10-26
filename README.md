@@ -332,6 +332,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [ReqKey](https://www.reqkey.com) - API key authentication, usage credits, rate limiting, and request analytics for your own APIs, via a single verify call from your middleware rather than a proxy or gateway. SDKs for Python, Node.js, Go, Rust, PHP, .NET, and Java.
 - [Screpy](https://screpy.com/) - Monitors website availability, page speed, and Core Web Vitals alongside technical SEO checks.
 - [Rasptele](https://github.com/maddhruv/rasptele) - Open-source monitoring and control bot for Raspberry Pi Docker servers, with host and container health checks, stateful Telegram alerts, and allowlisted container restarts.
+- [Visual Sentinel](https://visualsentinel.com) - Website monitoring that combines uptime, SSL, DNS history, performance and pixel-level visual checks in a real headless browser, with status pages, 10 alert channels including WhatsApp Business, a REST API and an MCP server.
 - [CloudWorth](https://www.getcloudworth.com/) - Checks Linux and Windows servers for VPS/cloud overselling (CPU steal time, disk cache fakery, old CPU generations). Available in 11 languages.
 - [RowSafe](https://github.com/rowsafe/rowsafe) - Open-source Linux agent for PostgreSQL health monitoring, diagnostics and backup status reporting.
 - [Expiry Watch](https://boringutils.com/expiry-watch) - Free daily TLS certificate and domain-expiry checks for up to 10 domains, with confirmed email alerts.
