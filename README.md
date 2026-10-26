@@ -281,6 +281,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [DevHelm](https://devhelm.io) - Developer-first uptime monitoring with HTTP, DNS, TCP, ICMP, and heartbeat checks, dependency intelligence for 80+ providers, hosted status pages, incident management, and a full developer surface (CLI, SDKs, Terraform provider, MCP server).
 - [Elastic APM](https://www.elastic.co/apm)
 - [Healthchecks.io](https://healthchecks.io)
+- [WatchCron](https://watchcron.com) - Cron job and scheduled task monitoring with heartbeat pings, duration tracking, and multi-channel failure alerts.
 - [OnlineOrNot](https://onlineornot.com/) - Uptime monitoring for websites, APIs, and cron jobs, with integrated status pages.
 - [Uptrack](https://uptrack.app) - Uptime monitoring with 30-second checks on free tier, consecutive-check alert confirmation to cut false positives, hosted status pages, and a built-in MCP server for AI agents.
 - [Streamdal](https://streamdal.com) - Code-Native Data Privacy - embed privacy controls in your application code to detect and monitor PII. [![Streamdal](https://img.shields.io/github/stars/streamdal/streamdal?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/streamdal/streamdal)
