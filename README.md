@@ -209,6 +209,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [OPS](https://ops.city)
 - [Kratix](https://www.kratix.io/)
 - [Terrateam](https://github.com/terrateamio/terrateam)
+- [Farmer](https://compositionalit.github.io/farmer/)
 
 ### Container
 - [Docker](https://www.docker.com/)
