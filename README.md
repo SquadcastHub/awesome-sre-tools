@@ -333,6 +333,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [ReqKey](https://www.reqkey.com) - API key authentication, usage credits, rate limiting, and request analytics for your own APIs, via a single verify call from your middleware rather than a proxy or gateway. SDKs for Python, Node.js, Go, Rust, PHP, .NET, and Java.
 - [Screpy](https://screpy.com/) - Monitors website availability, page speed, and Core Web Vitals alongside technical SEO checks.
 - [Rasptele](https://github.com/maddhruv/rasptele) - Open-source monitoring and control bot for Raspberry Pi Docker servers, with host and container health checks, stateful Telegram alerts, and allowlisted container restarts.
+- [looot monitor](https://github.com/loootai/looot-monitor) - Open-source app that watches competitor and brand web pages on a schedule, stores page diffs and sends new changes to one alert inbox, with a per-run price and a monthly cap per monitor. Page reads go through the paid looot API. MIT.
 - [Verceltics](https://verceltics.com) - Open-source iPhone, iPad and Android app for checking deployments, DNS, uptime and site analytics across 27 providers, including Vercel, Cloudflare, Better Stack and UptimeRobot.
 - [Monitorable](https://monitorable.io/) - Hosted monitoring for Linux servers built on an open-source OpenTelemetry Collector agent, covering host and Docker metrics, systemd services and SMART disk health, with alerting.
 - [Visual Sentinel](https://visualsentinel.com) - Website monitoring that combines uptime, SSL, DNS history, performance and pixel-level visual checks in a real headless browser, with status pages, 10 alert channels including WhatsApp Business, a REST API and an MCP server.
@@ -340,6 +341,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [RowSafe](https://github.com/rowsafe/rowsafe) - Open-source Linux agent for PostgreSQL health monitoring, diagnostics and backup status reporting.
 - [Expiry Watch](https://boringutils.com/expiry-watch) - Free daily TLS certificate and domain-expiry checks for up to 10 domains, with confirmed email alerts.
 - [Ping Now](https://pingnow.net) - Hosted uptime monitoring for website and API URLs, with 5-minute checks, a 10-second recheck before down alerts, email and Slack alerts, and import from UptimeRobot. Paid plans from $5/month.
+- [Renew Roster](https://renewroster.com) - SSL & Domain expiry Monitoring for agencies with multiple alerting options (Slack, Discord, Email, Teams)
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
