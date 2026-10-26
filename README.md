@@ -440,8 +440,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Aiden for SRE](https://stackgen.com/product/aiden-for-sre) - Aiden that acts autonomously on recurring incidents and works complex ones alongside your team through to resolution — policy-bound and fully auditable.
 - [OpenSRE.in](https://opensre.in) - Self-hosted AI SRE platform for incident investigation with memory, a Neo4j knowledge graph, Web UI, Slack, and Teams ([GitHub](https://github.com/swapnildahiphale/OpenSRE)).
 - [Aient AI](https://aient.ai) - OpenTelemetry-native AI SRE agent that ingests logs, metrics, and traces, groups errors into problems, investigates root cause, and opens a GitHub pull request with a fix, then monitors production telemetry for recurrence. Integrates with GitHub, Slack, and Linear, and exposes a hosted MCP server. ([docs](https://docs.aient.ai))
-
 - [Chronicle](https://github.com/shlokkokk/Chronicle) - AI-native incident response and operational memory platform featuring alert deduplication, multi-source ingestion, host telemetry, semantic runbook and historical incident retrieval, SLA automation, and AI-assisted root cause analysis.
+- [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor) (open source) - Read-only shell script, with a stdio MCP server, that checks the launchd, cron or systemd setup and trace files of a scheduled AI agent run (e.g. nightly `claude -p`) against 30 known ways of stopping silently, each answered exposed, guarded or undecidable with its evidence.
 - [Orbi](https://orbi.build/?ref=dir-awesome-sre-tools) ([GitHub](https://github.com/orbi-build/orbi), open source, AGPL-3.0) - Self-hostable agent that works from GitHub Issues: code changes, deployment and debugging tasks are run from a labeled Issue, with commands and output kept in the Issue; code changes go through tests, a separate AI review and a CI gate before merge.
 
 ## Related Lists
