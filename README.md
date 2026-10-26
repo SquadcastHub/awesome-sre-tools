@@ -116,6 +116,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Agent QA](https://github.com/vostride/agent-qa)
 - [Retry Jitter Lab](https://github.com/KRISHNAMMurarka/retry-jitter-lab) - Experimental Python simulator for comparing retry backoff and jitter policies during a modeled outage and recovery.
 - [Keploy](https://keploy.io/)
+- [check-proxy-tax](https://github.com/600me/check-proxy-tax) - Zero-dependency Python CLI that measures usable-response rate, the 403 retry tax and effective cost per 1,000 usable requests behind proxies and anti-bot walls.
 
 ## Continuous Integration
 ### Build
@@ -168,6 +169,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Visual Studio Team Services](https://www.visualstudio.com/team-services/)
 - [Go CD](https://www.gocd.org/)
 - [CI Health Audit](https://github.com/sdxiaomage/ci-health-audit) - Zero-dependency GitHub Actions and CLI static audit for workflow security and reliability risks, with Markdown/JSON output and configurable severity gates.
+- [Sengi](https://sengi.run/?utm_source=awesome-sre-tools&utm_medium=listing&utm_campaign=launch-2026-10) - GitHub Actions runners on 5 GHz bare-metal AMD Ryzen 9 7950X3D with local NVMe; up to 74% less per build than GitHub's runners, from $0.003/min. One-line `runs-on` switch.
 
 
 ## Continuous Delivery
@@ -330,6 +332,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Screpy](https://screpy.com/) - Monitors website availability, page speed, and Core Web Vitals alongside technical SEO checks.
 - [Rasptele](https://github.com/maddhruv/rasptele) - Open-source monitoring and control bot for Raspberry Pi Docker servers, with host and container health checks, stateful Telegram alerts, and allowlisted container restarts.
 - [RowSafe](https://github.com/rowsafe/rowsafe) - Open-source Linux agent for PostgreSQL health monitoring, diagnostics and backup status reporting.
+- [Expiry Watch](https://boringutils.com/expiry-watch) - Free daily TLS certificate and domain-expiry checks for up to 10 domains, with confirmed email alerts.
+- [Ping Now](https://pingnow.net) - Hosted uptime monitoring for website and API URLs, with 5-minute checks, a 10-second recheck before down alerts, email and Slack alerts, and import from UptimeRobot. Paid plans from $5/month.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
@@ -436,6 +440,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Aient AI](https://aient.ai) - OpenTelemetry-native AI SRE agent that ingests logs, metrics, and traces, groups errors into problems, investigates root cause, and opens a GitHub pull request with a fix, then monitors production telemetry for recurrence. Integrates with GitHub, Slack, and Linear, and exposes a hosted MCP server. ([docs](https://docs.aient.ai))
 
 - [Chronicle](https://github.com/shlokkokk/Chronicle) - AI-native incident response and operational memory platform featuring alert deduplication, multi-source ingestion, host telemetry, semantic runbook and historical incident retrieval, SLA automation, and AI-assisted root cause analysis.
+- [Orbi](https://orbi.build/?ref=dir-awesome-sre-tools) ([GitHub](https://github.com/orbi-build/orbi), open source, AGPL-3.0) - Self-hostable agent that works from GitHub Issues: code changes, deployment and debugging tasks are run from a labeled Issue, with commands and output kept in the Issue; code changes go through tests, a separate AI review and a CI gate before merge.
 
 ## Related Lists
 
