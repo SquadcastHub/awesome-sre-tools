@@ -171,6 +171,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [CI Health Audit](https://github.com/sdxiaomage/ci-health-audit) - Zero-dependency GitHub Actions and CLI static audit for workflow security and reliability risks, with Markdown/JSON output and configurable severity gates.
 - [Latchkey](https://latchkey.dev) - Self-healing GitHub Actions runners that repair transient failures mid-run, with a CLI and MCP server so coding agents can run, read and fix CI.
 - [Sengi](https://sengi.run/?utm_source=awesome-sre-tools&utm_medium=listing&utm_campaign=launch-2026-10) - GitHub Actions runners on 5 GHz bare-metal AMD Ryzen 9 7950X3D with local NVMe; up to 74% less per build than GitHub's runners, from $0.003/min. One-line `runs-on` switch.
+- [SuperCI](https://github.com/supercorp-ai/superci) - GitHub Actions on the cheapest AWS spot machines, in your own account, at AWS's price with nothing added: $0.0008 a minute for 2 vCPU. One command; no servers or Kubernetes. Free and open source.
 
 
 ## Continuous Delivery
