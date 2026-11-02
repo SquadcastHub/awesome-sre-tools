@@ -231,6 +231,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Oracle Container Registry](https://container-registry.oracle.com)
 - [Nexus Container Registry](https://help.sonatype.com/repomanager3/formats/docker-registry)
 - [Harbor](https://goharbor.io/)
+- [CloudRepo](https://www.cloudrepo.io/) - Hosted private registry for Docker/OCI images and Helm charts, with Maven, Gradle, PyPI and npm repositories in the same service.
 
 ### Container Orchestration
 - [Kubernetes](https://kubernetes.io/)
