@@ -190,6 +190,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Google Cloud Build](https://cloud.google.com/build)
 - [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules on AWS, GCP, Azure, and Scaleway.
 - [kzero](https://github.com/hrodrig/kzero) - Declarative Kubernetes down/up/reset CLI for bastion maintenance playbooks (scale, Helm, PVC, jobs) with dry-run and notify.
+- [Deploy-Drift Guard](https://github.com/foxscar-git-hub/deploy-drift-guard) - GitHub Action that catches silent deploy failures by comparing the live app's reported commit SHA against the one that should be deployed. No API tokens or platform credentials required.
 
 ### Infrastructure orchestration
 - [Vagrant](https://www.vagrantup.com/)
