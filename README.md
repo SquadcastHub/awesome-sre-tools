@@ -452,6 +452,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [agent-chain-doctor](https://github.com/elfovo/agent-chain-doctor) (open source) - Read-only shell script, with a stdio MCP server, that checks the launchd, cron or systemd setup and trace files of a scheduled AI agent run (e.g. nightly `claude -p`) against 30 known ways of stopping silently, each answered exposed, guarded or undecidable with its evidence.
 - [Orbi](https://orbi.build/?ref=dir-awesome-sre-tools) ([GitHub](https://github.com/orbi-build/orbi), open source, AGPL-3.0) - Self-hostable agent that works from GitHub Issues: code changes, deployment and debugging tasks are run from a labeled Issue, with commands and output kept in the Issue; code changes go through tests, a separate AI review and a CI gate before merge.
 
+- [Denpex](https://denpex.com) - GPU log diagnostics for investigating CUDA, PyTorch, NCCL, and vLLM training and inference failure logs.
+
 ## Related Lists
 
 - [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - Observability and performance testing tools and resources for performance engineering.
