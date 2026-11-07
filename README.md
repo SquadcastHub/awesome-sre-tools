@@ -117,6 +117,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Retry Jitter Lab](https://github.com/KRISHNAMMurarka/retry-jitter-lab) - Experimental Python simulator for comparing retry backoff and jitter policies during a modeled outage and recovery.
 - [Keploy](https://keploy.io/)
 - [check-proxy-tax](https://github.com/600me/check-proxy-tax) - Zero-dependency Python CLI that measures usable-response rate, the 403 retry tax and effective cost per 1,000 usable requests behind proxies and anti-bot walls.
+- [AnalyticsProof](https://analyticsproof.com) - Hosted service that replays recorded website journeys and fails a check when a dataLayer event or GA4 hit changes; runs on a schedule or as a GitHub/GitLab/Bitbucket pull-request check.
 
 ## Continuous Integration
 ### Build
