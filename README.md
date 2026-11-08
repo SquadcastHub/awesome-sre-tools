@@ -237,6 +237,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Apache Mesos](http://mesos.apache.org/) - with [Marathon](https://mesosphere.github.io/marathon/)
 - [Jokku](https://github.com/wes/jokku) - Runs apps from a Dockerfile, Compose file or image in Firecracker microVMs across a cluster of servers, with Dokku's git push workflow.
+- [mnemo-jvm-warden](https://github.com/baokhang83/mnemo-jvm-warden) - Kubernetes controller and sidecar that resize JVM pod memory on a schedule with in-place resize, releasing heap before shrinking the pod.
 
 ## Continuous Monitoring
 - [AWS CloudWatch](https://aws.amazon.com/cloudwatch/)
