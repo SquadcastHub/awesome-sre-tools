@@ -388,6 +388,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [CallHeim](https://callheim.com/) - On-call and incident response: escalation policies, on-call schedules, alert deduplication and an incident timeline, with rule-based alert handling and published thresholds.
 - [groot](https://github.com/hrodrig/groot) - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
 - [Hyperping](https://hyperping.com) - On-call schedules, escalation policies and alerting via SMS, Slack, Microsoft Teams and webhooks, with status page incident updates.
+- [md-runbook](https://github.com/smojon/md-runbook) - Runs the shell blocks of Markdown runbooks step by step from VS Code, a CLI or a phone over SSH, and saves each step's output in the file. MIT.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
