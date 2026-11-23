@@ -388,6 +388,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [CallHeim](https://callheim.com/) - On-call and incident response: escalation policies, on-call schedules, alert deduplication and an incident timeline, with rule-based alert handling and published thresholds.
 - [groot](https://github.com/hrodrig/groot) - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
 - [Hyperping](https://hyperping.com) - On-call schedules, escalation policies and alerting via SMS, Slack, Microsoft Teams and webhooks, with status page incident updates.
+- [SMSTunnel](https://smstunnel.io/integrations/alertmanager/) - Alertmanager alerts as SMS from your own Android phone and number, through a hosted service with a free plan. A second alert channel rather than a pager: the phone must be online.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
