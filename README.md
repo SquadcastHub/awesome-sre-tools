@@ -117,6 +117,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Retry Jitter Lab](https://github.com/KRISHNAMMurarka/retry-jitter-lab) - Experimental Python simulator for comparing retry backoff and jitter policies during a modeled outage and recovery.
 - [Keploy](https://keploy.io/)
 - [check-proxy-tax](https://github.com/600me/check-proxy-tax) - Zero-dependency Python CLI that measures usable-response rate, the 403 retry tax and effective cost per 1,000 usable requests behind proxies and anti-bot walls.
+- [VibeShield Action](https://github.com/zColdWater/vibeshield-action) - Zero-dependency GitHub Action and CLI for pre-deploy HTTP security header, client-bundle secret exposure, Supabase RLS, and sourcemap checks in CI/CD pipelines.
 
 ## Continuous Integration
 ### Build
