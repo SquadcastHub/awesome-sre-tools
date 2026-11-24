@@ -345,6 +345,8 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Ping Now](https://pingnow.net) - Hosted uptime monitoring for website and API URLs, with 5-minute checks, a 10-second recheck before down alerts, email and Slack alerts, and import from UptimeRobot. Paid plans from $5/month.
 - [Renew Roster](https://renewroster.com) - SSL & Domain expiry Monitoring for agencies with multiple alerting options (Slack, Discord, Email, Teams)
 
+- [DNS Notify](https://dnsnotify.com/) - Independent monitoring of public DNS records, nameservers, SSL certificate expiry, and domain registration, with before-and-after email alerts. Hosted service for agency client domains and business IT teams; no DNS-provider credentials required.
+
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
 - [PagerDuty](https://www.pagerduty.com/)
