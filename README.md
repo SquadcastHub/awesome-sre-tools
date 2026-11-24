@@ -388,6 +388,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [CallHeim](https://callheim.com/) - On-call and incident response: escalation policies, on-call schedules, alert deduplication and an incident timeline, with rule-based alert handling and published thresholds.
 - [groot](https://github.com/hrodrig/groot) - Read-only Kubernetes diagnostics CLI that collects pod logs, events, and API context into one .tar.gz archive for incident response and RCA.
 - [Hyperping](https://hyperping.com) - On-call schedules, escalation policies and alerting via SMS, Slack, Microsoft Teams and webhooks, with status page incident updates.
+- [slo-burn-rate-alerts](https://github.com/oreondev/helm-charts/tree/main/charts/slo-burn-rate-alerts) - Helm chart that generates multi-window SLO burn-rate alerts and recording rules for the Prometheus Operator.
 
 ### IT Service Management
 - [FreshService](https://freshservice.com/)
