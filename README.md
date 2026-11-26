@@ -344,6 +344,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [Expiry Watch](https://boringutils.com/expiry-watch) - Free daily TLS certificate and domain-expiry checks for up to 10 domains, with confirmed email alerts.
 - [Ping Now](https://pingnow.net) - Hosted uptime monitoring for website and API URLs, with 5-minute checks, a 10-second recheck before down alerts, email and Slack alerts, and import from UptimeRobot. Paid plans from $5/month.
 - [Renew Roster](https://renewroster.com) - SSL & Domain expiry Monitoring for agencies with multiple alerting options (Slack, Discord, Email, Teams)
+- [12happy](https://www.12hpy.com/) - Uptime monitoring and status pages, with failures re-checked from a second location before alerting, a public API and an open-source MCP server. Free plan with 50 monitors.
 
 ## Incident Management / Incident Response / IT Alerting / On-Call
 - [Squadcast](https://www.squadcast.com)
