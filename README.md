@@ -411,6 +411,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [InBrief](https://inbrief.sh) - Hosted status pages with HTTP, TCP and DNS monitors, subscriber updates by email, Slack, Discord, Telegram, Microsoft Teams and RSS, custom domains, multilingual pages, maintenance mode, and per-feature pricing instead of fixed tiers.
 - [RealUptime Status](https://realuptime.io/status) - Hosted status pages, with one status page on the free plan.
 - [NextReset](https://nextreset.ai/) - Independent AI service incident timeline with official source links and separate Codex reset history.
+- [Status Page & Outage Banner for Jira Service Management](https://marketplace.atlassian.com/apps/1274378094) - Status page and outage banner inside the Jira Service Management help center, with incidents, scheduled maintenance and 90-day uptime per component. Free for up to 3 agents.
 
 
 ## Internal Developer Portal
