@@ -244,6 +244,7 @@ A curated list of Site Reliability and Production Engineering tools - Maintained
 - [DebugBear](https://www.debugbear.com/)
 - [net-benchmark](https://github.com/net-benchmark/net-benchmark) - DNS/HTTP/SSL benchmarking with CSV, Excel, PDF, and JSON exports.
 - [Prometheus](https://prometheus.io/)
+- [Prometheus Storage Calculator](https://opshubs.space/tools/prometheus-storage-calculator/) - Free browser-based TSDB disk, WAL headroom, and retention.size flag calculator for Prometheus.
 - [StackDriver](https://cloud.google.com/stackdriver/)
 - [Sensu](https://sensu.io/)
 - [Sentry](https://sentry.io/welcome/)
